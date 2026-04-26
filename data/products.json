@@ -1,0 +1,664 @@
+[
+  {
+    "id": "phn-ap-001",
+    "name": "iPhone 17 Pro Max 256GB",
+    "category": "смартфон",
+    "price_rub": 139990,
+    "stock": 4,
+    "specs": "Apple A19 Pro, 6.9\" ProMotion OLED, тройная 48MP, USB-C, титан",
+    "tags": ["ios", "флагман", "камера", "apple", "iphone"]
+  },
+  {
+    "id": "phn-ap-002",
+    "name": "iPhone 17 Pro 256GB",
+    "category": "смартфон",
+    "price_rub": 124990,
+    "stock": 5,
+    "specs": "Apple A19 Pro, 6.3\" ProMotion OLED, тройная 48MP, USB-C, титан",
+    "tags": ["ios", "флагман", "камера", "apple", "iphone"]
+  },
+  {
+    "id": "phn-ap-003",
+    "name": "iPhone 17 128GB",
+    "category": "смартфон",
+    "price_rub": 89990,
+    "stock": 8,
+    "specs": "Apple A19, 6.1\" OLED 120Hz, двойная 48MP, USB-C",
+    "tags": ["ios", "apple", "iphone"]
+  },
+  {
+    "id": "phn-ap-004",
+    "name": "iPhone 16 Pro 128GB",
+    "category": "смартфон",
+    "price_rub": 99990,
+    "stock": 4,
+    "specs": "Apple A18 Pro, 6.3\" ProMotion OLED, тройная 48MP, титан",
+    "tags": ["ios", "apple", "iphone", "камера"]
+  },
+  {
+    "id": "phn-ap-005",
+    "name": "iPhone 16 128GB",
+    "category": "смартфон",
+    "price_rub": 74990,
+    "stock": 7,
+    "specs": "Apple A18, 6.1\" OLED, двойная 48MP",
+    "tags": ["ios", "apple", "iphone"]
+  },
+  {
+    "id": "phn-ap-006",
+    "name": "iPhone 15 128GB",
+    "category": "смартфон",
+    "price_rub": 59990,
+    "stock": 5,
+    "specs": "Apple A16, 6.1\" OLED, двойная 48MP, USB-C",
+    "tags": ["ios", "apple", "iphone", "доступный"]
+  },
+
+  {
+    "id": "phn-sm-s-001",
+    "name": "Samsung Galaxy S25 Ultra 512GB",
+    "category": "смартфон",
+    "price_rub": 129990,
+    "stock": 3,
+    "specs": "Snapdragon 8 Elite, 12/512, 6.9\" QHD+ AMOLED 120Hz, S Pen, 200MP",
+    "tags": ["android", "флагман", "samsung", "galaxy", "стилус"]
+  },
+  {
+    "id": "phn-sm-s-002",
+    "name": "Samsung Galaxy S25 256GB",
+    "category": "смартфон",
+    "price_rub": 84990,
+    "stock": 4,
+    "specs": "Snapdragon 8 Elite, 12/256, 6.2\" AMOLED 120Hz",
+    "tags": ["android", "samsung", "galaxy", "компакт"]
+  },
+  {
+    "id": "phn-sm-s-003",
+    "name": "Samsung Galaxy S24 FE 256GB",
+    "category": "смартфон",
+    "price_rub": 54990,
+    "stock": 4,
+    "specs": "Exynos 2400e, 8/256, 6.7\" AMOLED 120Hz",
+    "tags": ["android", "samsung", "galaxy", "fe"]
+  },
+
+  {
+    "id": "phn-sm-a-001",
+    "name": "Samsung Galaxy A07 4/128",
+    "category": "смартфон",
+    "price_rub": 9990,
+    "stock": 10,
+    "specs": "6.7\" HD+, двойная камера, большая батарея",
+    "tags": ["android", "samsung", "galaxy", "бюджет"]
+  },
+  {
+    "id": "phn-sm-a-002",
+    "name": "Samsung Galaxy A16 4/128",
+    "category": "смартфон",
+    "price_rub": 13990,
+    "stock": 8,
+    "specs": "6.7\" AMOLED 90Hz, 50MP основная",
+    "tags": ["android", "samsung", "galaxy", "бюджет"]
+  },
+  {
+    "id": "phn-sm-a-003",
+    "name": "Samsung Galaxy A16 8/128",
+    "category": "смартфон",
+    "price_rub": 15990,
+    "stock": 6,
+    "specs": "6.7\" AMOLED 90Hz, 50MP основная, больше памяти",
+    "tags": ["android", "samsung", "galaxy", "бюджет"]
+  },
+  {
+    "id": "phn-sm-a-004",
+    "name": "Samsung Galaxy A17 5G 6/128",
+    "category": "смартфон",
+    "price_rub": 15490,
+    "stock": 7,
+    "specs": "5G, 6.7\" AMOLED, 50MP основная",
+    "tags": ["android", "samsung", "galaxy", "5g", "бюджет"]
+  },
+  {
+    "id": "phn-sm-a-005",
+    "name": "Samsung Galaxy A17 5G 8/256",
+    "category": "смартфон",
+    "price_rub": 18490,
+    "stock": 5,
+    "specs": "5G, 6.7\" AMOLED, 50MP, 8/256",
+    "tags": ["android", "samsung", "galaxy", "5g"]
+  },
+  {
+    "id": "phn-sm-a-006",
+    "name": "Samsung Galaxy A26 6/128",
+    "category": "смартфон",
+    "price_rub": 21990,
+    "stock": 5,
+    "specs": "6.7\" Super AMOLED 120Hz, 50MP OIS",
+    "tags": ["android", "samsung", "galaxy"]
+  },
+  {
+    "id": "phn-sm-a-007",
+    "name": "Samsung Galaxy A36 8/128",
+    "category": "смартфон",
+    "price_rub": 25490,
+    "stock": 5,
+    "specs": "Snapdragon, 6.7\" AMOLED 120Hz, 50MP OIS",
+    "tags": ["android", "samsung", "galaxy", "средний"]
+  },
+  {
+    "id": "phn-sm-a-008",
+    "name": "Samsung Galaxy A36 8/256",
+    "category": "смартфон",
+    "price_rub": 29990,
+    "stock": 4,
+    "specs": "Snapdragon, 6.7\" AMOLED 120Hz, 50MP OIS, 8/256",
+    "tags": ["android", "samsung", "galaxy", "средний"]
+  },
+  {
+    "id": "phn-sm-a-009",
+    "name": "Samsung Galaxy A56 12/256",
+    "category": "смартфон",
+    "price_rub": 39990,
+    "stock": 3,
+    "specs": "Exynos 1580, 12/256, 6.7\" AMOLED 120Hz, 50MP OIS",
+    "tags": ["android", "samsung", "galaxy", "камера"]
+  },
+
+  {
+    "id": "phn-xm-001",
+    "name": "Xiaomi 15T 12/256",
+    "category": "смартфон",
+    "price_rub": 45990,
+    "stock": 4,
+    "specs": "Dimensity 8400 Ultra, 6.83\" AMOLED 144Hz, Leica-оптика",
+    "tags": ["android", "xiaomi", "камера"]
+  },
+  {
+    "id": "phn-xm-002",
+    "name": "Xiaomi Redmi Note 15 Pro+ 5G 12/512",
+    "category": "смартфон",
+    "price_rub": 41990,
+    "stock": 3,
+    "specs": "Snapdragon 7s Gen 3, 12/512, 6.67\" AMOLED 120Hz, 200MP",
+    "tags": ["android", "redmi", "xiaomi", "камера", "5g"]
+  },
+  {
+    "id": "phn-xm-003",
+    "name": "Xiaomi Redmi Note 15 Pro+ 5G 8/256",
+    "category": "смартфон",
+    "price_rub": 35990,
+    "stock": 4,
+    "specs": "Snapdragon 7s Gen 3, 8/256, 6.67\" AMOLED 120Hz, 200MP",
+    "tags": ["android", "redmi", "xiaomi", "камера", "5g"]
+  },
+  {
+    "id": "phn-xm-004",
+    "name": "Xiaomi Redmi Note 15 Pro 8/256",
+    "category": "смартфон",
+    "price_rub": 31990,
+    "stock": 5,
+    "specs": "Dimensity 7300, 6.67\" AMOLED 120Hz, 200MP",
+    "tags": ["android", "redmi", "xiaomi", "камера"]
+  },
+  {
+    "id": "phn-xm-005",
+    "name": "Xiaomi Redmi Note 15 Pro 8/128",
+    "category": "смартфон",
+    "price_rub": 29990,
+    "stock": 5,
+    "specs": "Dimensity 7300, 8/128, 6.67\" AMOLED 120Hz, 200MP",
+    "tags": ["android", "redmi", "xiaomi"]
+  },
+  {
+    "id": "phn-xm-006",
+    "name": "Xiaomi Redmi Note 15 8/256",
+    "category": "смартфон",
+    "price_rub": 25990,
+    "stock": 6,
+    "specs": "Snapdragon 685, 6.67\" AMOLED 120Hz, 108MP",
+    "tags": ["android", "redmi", "xiaomi"]
+  },
+  {
+    "id": "phn-xm-007",
+    "name": "Xiaomi Redmi Note 15 4/128",
+    "category": "смартфон",
+    "price_rub": 17990,
+    "stock": 6,
+    "specs": "Snapdragon 685, 6.67\" AMOLED 120Hz, 108MP",
+    "tags": ["android", "redmi", "xiaomi", "бюджет"]
+  },
+  {
+    "id": "phn-xm-008",
+    "name": "Xiaomi Redmi Note 14 Pro 8/256",
+    "category": "смартфон",
+    "price_rub": 23490,
+    "stock": 5,
+    "specs": "Dimensity 7300, 6.67\" AMOLED 120Hz, 200MP OIS",
+    "tags": ["android", "redmi", "xiaomi", "камера"]
+  },
+  {
+    "id": "phn-xm-009",
+    "name": "Xiaomi Redmi Note 14 Pro 8/128",
+    "category": "смартфон",
+    "price_rub": 21990,
+    "stock": 5,
+    "specs": "Dimensity 7300, 8/128, 6.67\" AMOLED 120Hz, 200MP OIS",
+    "tags": ["android", "redmi", "xiaomi"]
+  },
+  {
+    "id": "phn-xm-010",
+    "name": "Xiaomi Redmi A7 Pro",
+    "category": "смартфон",
+    "price_rub": 11490,
+    "stock": 8,
+    "specs": "6.75\" HD+, двойная камера, большая батарея",
+    "tags": ["android", "redmi", "xiaomi", "бюджет"]
+  },
+  {
+    "id": "phn-xm-011",
+    "name": "Xiaomi Redmi A5",
+    "category": "смартфон",
+    "price_rub": 8490,
+    "stock": 10,
+    "specs": "6.7\" HD+, 2 SIM, базовый смартфон",
+    "tags": ["android", "redmi", "xiaomi", "бюджет", "дешёвый"]
+  },
+
+  {
+    "id": "phn-pc-001",
+    "name": "Poco X8 Pro Max 12/512",
+    "category": "смартфон",
+    "price_rub": 49990,
+    "stock": 3,
+    "specs": "Dimensity 8400, 6.83\" AMOLED 144Hz, 50MP OIS, 6000mAh",
+    "tags": ["android", "poco", "xiaomi", "игровой", "производительный"]
+  },
+  {
+    "id": "phn-pc-002",
+    "name": "Poco X7 Pro 12/512",
+    "category": "смартфон",
+    "price_rub": 33990,
+    "stock": 4,
+    "specs": "Dimensity 8400 Ultra, 6.67\" AMOLED 120Hz, 50MP, 6000mAh",
+    "tags": ["android", "poco", "xiaomi", "игровой"]
+  },
+  {
+    "id": "phn-pc-003",
+    "name": "Poco X7 Pro 8/256",
+    "category": "смартфон",
+    "price_rub": 32990,
+    "stock": 5,
+    "specs": "Dimensity 8400 Ultra, 8/256, 6.67\" AMOLED 120Hz, 50MP",
+    "tags": ["android", "poco", "xiaomi", "игровой"]
+  },
+
+  {
+    "id": "phn-hn-001",
+    "name": "Honor X9d 8/256",
+    "category": "смартфон",
+    "price_rub": 28990,
+    "stock": 4,
+    "specs": "Snapdragon 6 Gen 1, 6.78\" OLED, 108MP, 8300mAh",
+    "tags": ["android", "honor", "батарея"]
+  },
+  {
+    "id": "phn-hn-002",
+    "name": "Honor X8x 8/256",
+    "category": "смартфон",
+    "price_rub": 23990,
+    "stock": 5,
+    "specs": "Dimensity 6300, 6.7\" 90Hz, 108MP",
+    "tags": ["android", "honor"]
+  },
+  {
+    "id": "phn-hn-003",
+    "name": "Honor X6d / 8Sx 8/128",
+    "category": "смартфон",
+    "price_rub": 23990,
+    "stock": 5,
+    "specs": "6.7\" 90Hz, 50MP, 6000mAh",
+    "tags": ["android", "honor", "батарея"]
+  },
+  {
+    "id": "phn-hn-004",
+    "name": "Honor X7c 8/256",
+    "category": "смартфон",
+    "price_rub": 12490,
+    "stock": 6,
+    "specs": "Snapdragon 685, 6.7\" 90Hz, 108MP",
+    "tags": ["android", "honor", "бюджет"]
+  },
+
+  {
+    "id": "phn-tc-001",
+    "name": "Tecno Pova 7 Neo 8/256",
+    "category": "смартфон",
+    "price_rub": 19990,
+    "stock": 5,
+    "specs": "Helio G100, 6.78\" 120Hz, 50MP, 6000mAh, игровой дизайн",
+    "tags": ["android", "tecno", "игровой", "батарея"]
+  },
+  {
+    "id": "phn-tc-002",
+    "name": "Tecno Spark 40 Pro 8/256",
+    "category": "смартфон",
+    "price_rub": 16190,
+    "stock": 5,
+    "specs": "Helio G100, 6.78\" 120Hz, 64MP",
+    "tags": ["android", "tecno", "бюджет"]
+  },
+  {
+    "id": "phn-tc-003",
+    "name": "Tecno Spark Go 3 4/128",
+    "category": "смартфон",
+    "price_rub": 8990,
+    "stock": 8,
+    "specs": "Unisoc T615, 6.67\" 120Hz, 50MP",
+    "tags": ["android", "tecno", "бюджет", "дешёвый"]
+  },
+
+  {
+    "id": "phn-if-001",
+    "name": "Infinix GT30 Pro 8/256",
+    "category": "смартфон",
+    "price_rub": 33490,
+    "stock": 4,
+    "specs": "Dimensity 8350 Ultimate, 6.78\" AMOLED 144Hz, 108MP, игровой",
+    "tags": ["android", "infinix", "игровой", "производительный"]
+  },
+
+  {
+    "id": "phn-rl-001",
+    "name": "Realme C85 8/256",
+    "category": "смартфон",
+    "price_rub": 19490,
+    "stock": 5,
+    "specs": "Dimensity 6300, 6.72\" 120Hz, 50MP, 7000mAh",
+    "tags": ["android", "realme", "батарея"]
+  },
+  {
+    "id": "phn-rl-002",
+    "name": "Realme C75 6/128",
+    "category": "смартфон",
+    "price_rub": 15990,
+    "stock": 6,
+    "specs": "Helio G92 Max, 6.72\" 90Hz, 50MP, защита IP69",
+    "tags": ["android", "realme", "защита"]
+  },
+
+  {
+    "id": "phn-hw-001",
+    "name": "Huawei Nova 14i 8/128",
+    "category": "смартфон",
+    "price_rub": 14990,
+    "stock": 6,
+    "specs": "6.7\" 90Hz, 50MP, EMUI",
+    "tags": ["android", "huawei", "бюджет"]
+  },
+
+  {
+    "id": "phn-in-001",
+    "name": "Inoi Note 13S",
+    "category": "смартфон",
+    "price_rub": 9990,
+    "stock": 8,
+    "specs": "6.6\" HD+, базовый смартфон, российский бренд",
+    "tags": ["android", "inoi", "бюджет", "дешёвый"]
+  },
+
+  {
+    "id": "btn-001",
+    "name": "Philips Xenium X900",
+    "category": "кнопочный телефон",
+    "price_rub": 5490,
+    "stock": 6,
+    "specs": "Большая батарея, громкий динамик, 2 SIM, защищённый",
+    "tags": ["кнопочный", "philips", "бабушкофон", "защита"]
+  },
+  {
+    "id": "btn-002",
+    "name": "Philips Xenium X285",
+    "category": "кнопочный телефон",
+    "price_rub": 3490,
+    "stock": 8,
+    "specs": "2 SIM, фонарик, FM-радио",
+    "tags": ["кнопочный", "philips"]
+  },
+  {
+    "id": "btn-003",
+    "name": "Philips Xenium X175",
+    "category": "кнопочный телефон",
+    "price_rub": 2430,
+    "stock": 10,
+    "specs": "Классическая звонилка, 2 SIM",
+    "tags": ["кнопочный", "philips", "дешёвый"]
+  },
+  {
+    "id": "btn-004",
+    "name": "Nokia 110 DS",
+    "category": "кнопочный телефон",
+    "price_rub": 2990,
+    "stock": 10,
+    "specs": "Классическая Nokia, 2 SIM, FM-радио",
+    "tags": ["кнопочный", "nokia"]
+  },
+  {
+    "id": "btn-005",
+    "name": "Nokia 106",
+    "category": "кнопочный телефон",
+    "price_rub": 2590,
+    "stock": 10,
+    "specs": "Простая звонилка Nokia",
+    "tags": ["кнопочный", "nokia", "дешёвый"]
+  },
+  {
+    "id": "btn-006",
+    "name": "Maxvi B35",
+    "category": "кнопочный телефон",
+    "price_rub": 2690,
+    "stock": 8,
+    "specs": "Громкий динамик, большой шрифт",
+    "tags": ["кнопочный", "maxvi", "бабушкофон"]
+  },
+  {
+    "id": "btn-007",
+    "name": "Maxvi B110",
+    "category": "кнопочный телефон",
+    "price_rub": 1890,
+    "stock": 10,
+    "specs": "Базовая звонилка",
+    "tags": ["кнопочный", "maxvi", "дешёвый"]
+  },
+  {
+    "id": "btn-008",
+    "name": "Maxvi C40",
+    "category": "кнопочный телефон",
+    "price_rub": 1790,
+    "stock": 10,
+    "specs": "Раскладушка-минимум",
+    "tags": ["кнопочный", "maxvi", "дешёвый"]
+  },
+  {
+    "id": "btn-009",
+    "name": "Maxvi K21",
+    "category": "кнопочный телефон",
+    "price_rub": 1790,
+    "stock": 10,
+    "specs": "Компактная звонилка, 2 SIM",
+    "tags": ["кнопочный", "maxvi", "дешёвый"]
+  },
+  {
+    "id": "btn-010",
+    "name": "Inoi 289",
+    "category": "кнопочный телефон",
+    "price_rub": 2590,
+    "stock": 8,
+    "specs": "2 SIM, FM-радио, фонарик",
+    "tags": ["кнопочный", "inoi", "дешёвый"]
+  },
+
+  {
+    "id": "tab-001",
+    "name": "iPad Pro 13 M4 256GB",
+    "category": "планшет",
+    "price_rub": 119990,
+    "stock": 3,
+    "specs": "Apple M4, 13\" Tandem OLED, поддержка Pencil Pro",
+    "tags": ["ipados", "apple", "профи", "рисование"]
+  },
+  {
+    "id": "tab-002",
+    "name": "iPad Air 11 M3 128GB",
+    "category": "планшет",
+    "price_rub": 59990,
+    "stock": 5,
+    "specs": "Apple M3, 11\" Liquid Retina, поддержка Pencil Pro",
+    "tags": ["ipados", "apple", "учёба"]
+  },
+  {
+    "id": "tab-003",
+    "name": "iPad 10 64GB",
+    "category": "планшет",
+    "price_rub": 32990,
+    "stock": 6,
+    "specs": "Apple A14, 10.9\" Retina, базовый iPad",
+    "tags": ["ipados", "apple", "доступный"]
+  },
+  {
+    "id": "tab-004",
+    "name": "Samsung Galaxy Tab A11",
+    "category": "планшет",
+    "price_rub": 19990,
+    "stock": 6,
+    "specs": "11\" дисплей, 4/64, Wi-Fi, бюджетный планшет",
+    "tags": ["android", "samsung", "galaxy", "бюджет"]
+  },
+  {
+    "id": "tab-005",
+    "name": "Samsung Galaxy Tab A9+ LTE 4/64",
+    "category": "планшет",
+    "price_rub": 19990,
+    "stock": 5,
+    "specs": "11\" 90Hz, LTE, 4/64",
+    "tags": ["android", "samsung", "galaxy", "4g"]
+  },
+  {
+    "id": "tab-006",
+    "name": "Samsung Galaxy Tab A9+ 5G",
+    "category": "планшет",
+    "price_rub": 24990,
+    "stock": 4,
+    "specs": "11\" 90Hz, 5G, 8/128",
+    "tags": ["android", "samsung", "galaxy", "5g"]
+  },
+  {
+    "id": "tab-007",
+    "name": "Poco Pad 8/256",
+    "category": "планшет",
+    "price_rub": 27990,
+    "stock": 4,
+    "specs": "Snapdragon 7s Gen 2, 12.1\" 2.5K 120Hz",
+    "tags": ["android", "poco", "xiaomi"]
+  },
+
+  {
+    "id": "wch-001",
+    "name": "Apple Watch Series 11 45mm",
+    "category": "часы",
+    "price_rub": 44990,
+    "stock": 6,
+    "specs": "S11, Always-On Retina, GPS, измерение давления",
+    "tags": ["ios", "apple", "фитнес"]
+  },
+  {
+    "id": "wch-002",
+    "name": "Apple Watch SE 2 44mm",
+    "category": "часы",
+    "price_rub": 27990,
+    "stock": 6,
+    "specs": "S8, Retina, GPS, базовая модель Apple Watch",
+    "tags": ["ios", "apple", "доступный"]
+  },
+  {
+    "id": "wch-003",
+    "name": "Apple Watch Ultra 3",
+    "category": "часы",
+    "price_rub": 84990,
+    "stock": 3,
+    "specs": "Титан 49mm, спутниковая связь, до 36ч, для экстрима",
+    "tags": ["ios", "apple", "спорт", "путешествия"]
+  },
+  {
+    "id": "wch-004",
+    "name": "Garmin Fenix 8 47mm",
+    "category": "часы",
+    "price_rub": 99990,
+    "stock": 2,
+    "specs": "AMOLED, мульти-спорт, до 16 дней, фонарик",
+    "tags": ["спорт", "garmin", "длительная батарея"]
+  },
+
+  {
+    "id": "hdp-001",
+    "name": "Apple AirPods Pro 3",
+    "category": "наушники",
+    "price_rub": 24990,
+    "stock": 10,
+    "specs": "TWS, активное шумоподавление, H3, USB-C",
+    "tags": ["ios", "apple", "tws", "шумодав"]
+  },
+  {
+    "id": "hdp-002",
+    "name": "Apple AirPods 4 (с ANC)",
+    "category": "наушники",
+    "price_rub": 17990,
+    "stock": 12,
+    "specs": "TWS, активное шумоподавление, без амбушюр",
+    "tags": ["ios", "apple", "tws"]
+  },
+  {
+    "id": "hdp-003",
+    "name": "Apple AirPods 4",
+    "category": "наушники",
+    "price_rub": 13990,
+    "stock": 12,
+    "specs": "TWS, без амбушюр, базовые",
+    "tags": ["ios", "apple", "tws", "доступный"]
+  },
+  {
+    "id": "hdp-004",
+    "name": "Sony WH-1000XM6",
+    "category": "наушники",
+    "price_rub": 39990,
+    "stock": 5,
+    "specs": "Накладные, шумоподавление, до 30ч, LDAC",
+    "tags": ["sony", "шумодав", "bluetooth", "hi-res", "путешествия"]
+  },
+  {
+    "id": "hdp-005",
+    "name": "Bose QuietComfort Ultra",
+    "category": "наушники",
+    "price_rub": 37990,
+    "stock": 4,
+    "specs": "Накладные, топовое шумоподавление, иммерсивный звук",
+    "tags": ["bose", "шумодав", "комфорт"]
+  },
+  {
+    "id": "hdp-006",
+    "name": "Marshall Major V",
+    "category": "наушники",
+    "price_rub": 14990,
+    "stock": 6,
+    "specs": "Накладные, Bluetooth, до 100ч, фирменный звук Marshall",
+    "tags": ["marshall", "bluetooth", "стиль"]
+  },
+  {
+    "id": "hdp-007",
+    "name": "Samsung Galaxy Buds3 FE",
+    "category": "наушники",
+    "price_rub": 9990,
+    "stock": 8,
+    "specs": "TWS, ANC, удобная посадка",
+    "tags": ["samsung", "galaxy", "tws", "шумодав"]
+  }
+]
