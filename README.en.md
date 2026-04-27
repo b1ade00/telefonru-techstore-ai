@@ -8,7 +8,9 @@ A Telegram consultant bot for an offline electronics store. It takes natural-lan
 
 ## 🎬 Demo
 
-> Screenshot / GIF goes here once recorded. Drop it at `docs/demo.gif`.
+![Bot logs in terminal](docs/terminal.png)
+
+_What it looks like under the hood: the bot takes the user's text, assembles a compact prompt (~1500 input tokens), hits the local LM Studio, returns a short human reply ~30 seconds later. Video demo of the actual Telegram dialogue is coming to `docs/demo.gif`._
 
 ```
 Customer: How much is a Redmi A5 128GB?
