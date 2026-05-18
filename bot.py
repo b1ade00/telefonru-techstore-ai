@@ -37,8 +37,8 @@ async def main() -> None:
 
     me = await bot.get_me()
     log.info(
-        "Запущен @%s (id=%s). LM Studio: %s, модель: %s",
-        me.username, me.id, config.LM_STUDIO_BASE_URL, config.LM_STUDIO_MODEL,
+        "Запущен @%s (id=%s). Магазин: %s, Groq модель: %s",
+        me.username, me.id, config.SHOP_NAME, config.GROQ_MODEL,
     )
     log.info(config.STARTUP_MESSAGE)
 

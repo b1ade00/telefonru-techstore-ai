@@ -1,4 +1,4 @@
-"""Сервис обращения к локальному LM Studio через OpenAI-совместимый API."""
+"""Сервис обращения к Groq API (OpenAI-совместимый протокол)."""
 from __future__ import annotations
 
 import asyncio
@@ -25,7 +25,7 @@ def _system_prompt() -> str:
 
     catalog = product_service.render_catalog_compact()
     return (
-        f"{base}\n\n"
+        f"Ты консультант магазина «{config.SHOP_NAME}».\n{base}\n\n"
         f"АКТУАЛЬНЫЙ КАТАЛОГ (используй ТОЛЬКО эти товары и цены):\n{catalog}"
     )
 
@@ -55,9 +55,9 @@ def _relevant_details(user_text: str, limit: int = 3) -> str:
 class LLMService:
     def __init__(self) -> None:
         self._client = AsyncOpenAI(
-            base_url=config.LM_STUDIO_BASE_URL,
-            api_key=config.LM_STUDIO_API_KEY,
-            timeout=config.LM_STUDIO_TIMEOUT,
+            base_url=config.GROQ_BASE_URL,
+            api_key=config.GROQ_API_KEY,
+            timeout=config.GROQ_TIMEOUT,
             max_retries=0,  # ретраи делаем сами, openai-клиент пусть не дёргает
         )
 
@@ -73,9 +73,9 @@ class LLMService:
         for attempt in range(1, config.MAX_RETRIES + 1):
             try:
                 response = await self._client.chat.completions.create(
-                    model=config.LM_STUDIO_MODEL,
+                    model=config.GROQ_MODEL,
                     messages=messages,
-                    max_tokens=config.LM_STUDIO_MAX_TOKENS,
+                    max_tokens=config.GROQ_MAX_TOKENS,
                     temperature=config.TEMPERATURE,
                     top_p=config.TOP_P,
                 )
@@ -84,12 +84,12 @@ class LLMService:
             except (APIConnectionError, APITimeoutError) as e:
                 last_error = e
                 logger.warning(
-                    "LM Studio недоступна (попытка %d/%d): %s",
+                    "Groq недоступен (попытка %d/%d): %s",
                     attempt, config.MAX_RETRIES, e,
                 )
             except APIError as e:
                 last_error = e
-                logger.error("Ошибка API LM Studio: %s", e)
+                logger.error("Ошибка Groq API: %s", e)
                 break  # API-ошибка не лечится повторами
             except Exception as e:  # noqa: BLE001 — логируем и сдаёмся
                 last_error = e
@@ -99,11 +99,7 @@ class LLMService:
             await asyncio.sleep(config.RETRY_DELAY * attempt)
 
         if isinstance(last_error, (APIConnectionError, APITimeoutError)):
-            return (
-                "⚠️ Не могу подключиться к LM Studio. "
-                "Проверь, что сервер запущен на "
-                f"{config.LM_STUDIO_BASE_URL} и модель загружена."
-            )
+            return "⚠️ Не могу подключиться к Groq. Проверь интернет-соединение."
         return config.ERROR_MESSAGE
 
 

@@ -17,12 +17,15 @@ def _require(name: str) -> str:
 # Telegram
 TELEGRAM_TOKEN = _require("TELEGRAM_TOKEN")
 
-# LM Studio
-LM_STUDIO_BASE_URL = os.getenv("LM_STUDIO_BASE_URL", "http://localhost:1234/v1")
-LM_STUDIO_API_KEY = os.getenv("LM_STUDIO_API_KEY", "lm-studio")
-LM_STUDIO_MODEL = os.getenv("LM_STUDIO_MODEL", "google/gemma-4-e4b")
-LM_STUDIO_TIMEOUT = float(os.getenv("LM_STUDIO_TIMEOUT", "30"))
-LM_STUDIO_MAX_TOKENS = int(os.getenv("LM_STUDIO_MAX_TOKENS", "256"))
+# Groq API
+GROQ_API_KEY = _require("GROQ_API_KEY")
+GROQ_BASE_URL = "https://api.groq.com/openai/v1"
+GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+GROQ_TIMEOUT = float(os.getenv("GROQ_TIMEOUT", "30"))
+GROQ_MAX_TOKENS = int(os.getenv("GROQ_MAX_TOKENS", "300"))
+
+# Настройки магазина (меняются под каждого клиента)
+SHOP_NAME = os.getenv("SHOP_NAME", "наш магазин")
 
 # Параметры генерации
 TEMPERATURE = float(os.getenv("TEMPERATURE", "0.7"))
