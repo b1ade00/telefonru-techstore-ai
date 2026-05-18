@@ -6,7 +6,11 @@
     "price_rub": 9990,
     "stock": 1,
     "specs": "Exynos 850, 6.5\" PLS TFT, 50MP камера, 5000мАч, 2 SIM",
-    "tags": ["samsung", "android", "бюджетный"]
+    "tags": [
+      "samsung",
+      "android",
+      "бюджетный"
+    ]
   },
   {
     "id": "phn-sam-002",
@@ -15,7 +19,11 @@
     "price_rub": 18490,
     "stock": 1,
     "specs": "5G, 6.7\" Super AMOLED, 50MP камера, 5000мАч, 2 SIM",
-    "tags": ["samsung", "android", "5g"]
+    "tags": [
+      "samsung",
+      "android",
+      "5g"
+    ]
   },
   {
     "id": "phn-sam-003",
@@ -24,7 +32,10 @@
     "price_rub": 19990,
     "stock": 1,
     "specs": "Exynos 1380, 6.7\" Super AMOLED, 50MP камера, 5000мАч, 2 SIM",
-    "tags": ["samsung", "android"]
+    "tags": [
+      "samsung",
+      "android"
+    ]
   },
   {
     "id": "phn-sam-004",
@@ -33,7 +44,10 @@
     "price_rub": 22990,
     "stock": 1,
     "specs": "Exynos 1380, 6.7\" Super AMOLED, 50MP камера, 5000мАч, 2 SIM",
-    "tags": ["samsung", "android"]
+    "tags": [
+      "samsung",
+      "android"
+    ]
   },
   {
     "id": "phn-sam-005",
@@ -42,7 +56,10 @@
     "price_rub": 22990,
     "stock": 1,
     "specs": "Exynos 1380, 6.7\" Super AMOLED, 50MP камера, 5000мАч, 2 SIM",
-    "tags": ["samsung", "android"]
+    "tags": [
+      "samsung",
+      "android"
+    ]
   },
   {
     "id": "phn-sam-006",
@@ -51,7 +68,11 @@
     "price_rub": 25490,
     "stock": 1,
     "specs": "Snapdragon 6 Gen 3, 6.7\" Super AMOLED, 50MP камера, 5500мАч, 2 SIM",
-    "tags": ["samsung", "android", "amoled"]
+    "tags": [
+      "samsung",
+      "android",
+      "amoled"
+    ]
   },
   {
     "id": "phn-sam-007",
@@ -60,7 +81,11 @@
     "price_rub": 25990,
     "stock": 1,
     "specs": "Snapdragon 6 Gen 3, 6.7\" Super AMOLED, 50MP камера, 5500мАч, 2 SIM",
-    "tags": ["samsung", "android", "amoled"]
+    "tags": [
+      "samsung",
+      "android",
+      "amoled"
+    ]
   },
   {
     "id": "phn-sam-008",
@@ -69,7 +94,11 @@
     "price_rub": 25990,
     "stock": 1,
     "specs": "Snapdragon 6 Gen 3, 6.7\" Super AMOLED, 50MP камера, 5500мАч, 2 SIM",
-    "tags": ["samsung", "android", "amoled"]
+    "tags": [
+      "samsung",
+      "android",
+      "amoled"
+    ]
   },
   {
     "id": "phn-sam-009",
@@ -78,7 +107,11 @@
     "price_rub": 26990,
     "stock": 1,
     "specs": "Snapdragon 6 Gen 3, 6.7\" Super AMOLED, 50MP камера, 5500мАч, 2 SIM",
-    "tags": ["samsung", "android", "amoled"]
+    "tags": [
+      "samsung",
+      "android",
+      "amoled"
+    ]
   },
   {
     "id": "phn-sam-010",
@@ -87,7 +120,11 @@
     "price_rub": 26990,
     "stock": 1,
     "specs": "Snapdragon 6 Gen 3, 6.7\" Super AMOLED, 50MP камера, 5500мАч, 2 SIM",
-    "tags": ["samsung", "android", "amoled"]
+    "tags": [
+      "samsung",
+      "android",
+      "amoled"
+    ]
   },
   {
     "id": "phn-sam-011",
@@ -96,7 +133,11 @@
     "price_rub": 35990,
     "stock": 1,
     "specs": "6.7\" Super AMOLED, 50MP камера, 5500мАч, 2 SIM",
-    "tags": ["samsung", "android", "amoled"]
+    "tags": [
+      "samsung",
+      "android",
+      "amoled"
+    ]
   },
   {
     "id": "phn-sam-012",
@@ -105,7 +146,12 @@
     "price_rub": 39990,
     "stock": 1,
     "specs": "Exynos 1580, 6.7\" Super AMOLED, 50MP камера, 5000мАч, 2 SIM",
-    "tags": ["samsung", "android", "amoled", "флагман"]
+    "tags": [
+      "samsung",
+      "android",
+      "amoled",
+      "флагман"
+    ]
   },
   {
     "id": "phn-sam-013",
@@ -114,7 +160,12 @@
     "price_rub": 40990,
     "stock": 1,
     "specs": "6.7\" Super AMOLED, 50MP камера, 5000мАч, 2 SIM",
-    "tags": ["samsung", "android", "amoled", "флагман"]
+    "tags": [
+      "samsung",
+      "android",
+      "amoled",
+      "флагман"
+    ]
   },
   {
     "id": "phn-sam-014",
@@ -123,7 +174,12 @@
     "price_rub": 47990,
     "stock": 1,
     "specs": "6.7\" Super AMOLED, 50MP камера, 5000мАч, 2 SIM",
-    "tags": ["samsung", "android", "amoled", "флагман"]
+    "tags": [
+      "samsung",
+      "android",
+      "amoled",
+      "флагман"
+    ]
   },
   {
     "id": "phn-sam-015",
@@ -132,7 +188,12 @@
     "price_rub": 47998,
     "stock": 1,
     "specs": "6.7\" Super AMOLED, 50MP камера, 5000мАч, 2 SIM",
-    "tags": ["samsung", "android", "amoled", "флагман"]
+    "tags": [
+      "samsung",
+      "android",
+      "amoled",
+      "флагман"
+    ]
   },
   {
     "id": "phn-xia-001",
@@ -141,7 +202,12 @@
     "price_rub": 11490,
     "stock": 1,
     "specs": "Helio G91 Ultra, 6.79\" IPS, 108MP камера, 5030мАч, 2 SIM",
-    "tags": ["xiaomi", "redmi", "android", "бюджетный"]
+    "tags": [
+      "xiaomi",
+      "redmi",
+      "android",
+      "бюджетный"
+    ]
   },
   {
     "id": "phn-xia-002",
@@ -150,7 +216,12 @@
     "price_rub": 52990,
     "stock": 1,
     "specs": "Snapdragon 8 Gen 3, 6.67\" AMOLED 144Гц, 50MP Leica, 5000мАч, 2 SIM",
-    "tags": ["xiaomi", "android", "флагман", "amoled"]
+    "tags": [
+      "xiaomi",
+      "android",
+      "флагман",
+      "amoled"
+    ]
   },
   {
     "id": "phn-xia-003",
@@ -159,7 +230,12 @@
     "price_rub": 17990,
     "stock": 1,
     "specs": "Helio G100 Ultra, 6.78\" AMOLED, 108MP камера, 5500мАч, 2 SIM",
-    "tags": ["xiaomi", "redmi", "android", "amoled"]
+    "tags": [
+      "xiaomi",
+      "redmi",
+      "android",
+      "amoled"
+    ]
   },
   {
     "id": "phn-xia-004",
@@ -168,7 +244,12 @@
     "price_rub": 19990,
     "stock": 1,
     "specs": "Helio G100 Ultra, 6.78\" AMOLED, 108MP камера, 5500мАч, 2 SIM",
-    "tags": ["xiaomi", "redmi", "android", "amoled"]
+    "tags": [
+      "xiaomi",
+      "redmi",
+      "android",
+      "amoled"
+    ]
   },
   {
     "id": "phn-xia-005",
@@ -177,7 +258,13 @@
     "price_rub": 25990,
     "stock": 1,
     "specs": "Dimensity 7300 Ultra, 6.78\" AMOLED 120Гц, 200MP камера, 5500мАч, 2 SIM",
-    "tags": ["xiaomi", "redmi", "android", "amoled", "pro"]
+    "tags": [
+      "xiaomi",
+      "redmi",
+      "android",
+      "amoled",
+      "pro"
+    ]
   },
   {
     "id": "phn-xia-006",
@@ -186,7 +273,14 @@
     "price_rub": 29990,
     "stock": 1,
     "specs": "Dimensity 7300 Ultra, 6.78\" AMOLED 120Гц, 200MP камера, 5500мАч, 5G, 2 SIM",
-    "tags": ["xiaomi", "redmi", "android", "amoled", "pro", "5g"]
+    "tags": [
+      "xiaomi",
+      "redmi",
+      "android",
+      "amoled",
+      "pro",
+      "5g"
+    ]
   },
   {
     "id": "phn-xia-007",
@@ -195,7 +289,14 @@
     "price_rub": 31990,
     "stock": 1,
     "specs": "Dimensity 7300 Ultra, 6.78\" AMOLED 120Гц, 200MP камера, 5500мАч, 5G, 2 SIM",
-    "tags": ["xiaomi", "redmi", "android", "amoled", "pro", "5g"]
+    "tags": [
+      "xiaomi",
+      "redmi",
+      "android",
+      "amoled",
+      "pro",
+      "5g"
+    ]
   },
   {
     "id": "phn-xia-008",
@@ -204,7 +305,12 @@
     "price_rub": 21990,
     "stock": 1,
     "specs": "Helio G100 Ultra, 6.67\" AMOLED 120Гц, 200MP камера, 5500мАч, 2 SIM",
-    "tags": ["xiaomi", "redmi", "android", "amoled"]
+    "tags": [
+      "xiaomi",
+      "redmi",
+      "android",
+      "amoled"
+    ]
   },
   {
     "id": "phn-xia-009",
@@ -213,7 +319,13 @@
     "price_rub": 23490,
     "stock": 1,
     "specs": "Dimensity 7300 Ultra, 6.67\" AMOLED 120Гц, 200MP камера, 5110мАч, 2 SIM",
-    "tags": ["xiaomi", "redmi", "android", "amoled", "pro"]
+    "tags": [
+      "xiaomi",
+      "redmi",
+      "android",
+      "amoled",
+      "pro"
+    ]
   },
   {
     "id": "phn-xia-010",
@@ -222,7 +334,14 @@
     "price_rub": 33990,
     "stock": 1,
     "specs": "Snapdragon 7s Gen 3, 6.67\" AMOLED 120Гц, 200MP камера, 5110мАч, 5G, без СЗУ",
-    "tags": ["xiaomi", "redmi", "android", "amoled", "pro", "5g"]
+    "tags": [
+      "xiaomi",
+      "redmi",
+      "android",
+      "amoled",
+      "pro",
+      "5g"
+    ]
   },
   {
     "id": "phn-xia-011",
@@ -231,7 +350,13 @@
     "price_rub": 32990,
     "stock": 2,
     "specs": "Dimensity 8400 Ultra, 6.67\" AMOLED 120Гц, 50MP камера, 6000мАч, 2 SIM",
-    "tags": ["xiaomi", "poco", "android", "amoled", "игровой"]
+    "tags": [
+      "xiaomi",
+      "poco",
+      "android",
+      "amoled",
+      "игровой"
+    ]
   },
   {
     "id": "phn-rea-001",
@@ -240,7 +365,11 @@
     "price_rub": 19490,
     "stock": 1,
     "specs": "Snapdragon 685, 6.67\" IPS, 50MP камера, 5000мАч, 2 SIM",
-    "tags": ["realme", "android", "бюджетный"]
+    "tags": [
+      "realme",
+      "android",
+      "бюджетный"
+    ]
   },
   {
     "id": "phn-rea-002",
@@ -249,7 +378,11 @@
     "price_rub": 15990,
     "stock": 1,
     "specs": "Helio G92, 6.67\" IPS, 50MP камера, 6000мАч, 2 SIM",
-    "tags": ["realme", "android", "бюджетный"]
+    "tags": [
+      "realme",
+      "android",
+      "бюджетный"
+    ]
   },
   {
     "id": "phn-hon-001",
@@ -258,7 +391,10 @@
     "price_rub": 24990,
     "stock": 1,
     "specs": "Snapdragon 680, 6.78\" IPS, 108MP камера, 5230мАч, 2 SIM",
-    "tags": ["honor", "android"]
+    "tags": [
+      "honor",
+      "android"
+    ]
   },
   {
     "id": "phn-hon-002",
@@ -267,7 +403,10 @@
     "price_rub": 24990,
     "stock": 1,
     "specs": "Snapdragon 680, 6.78\" IPS, 108MP камера, 5230мАч, 2 SIM",
-    "tags": ["honor", "android"]
+    "tags": [
+      "honor",
+      "android"
+    ]
   },
   {
     "id": "phn-inf-001",
@@ -276,7 +415,12 @@
     "price_rub": 33490,
     "stock": 1,
     "specs": "Dimensity 8350, 6.78\" AMOLED 144Гц, 50MP камера, 5000мАч, 2 SIM",
-    "tags": ["infinix", "android", "amoled", "игровой"]
+    "tags": [
+      "infinix",
+      "android",
+      "amoled",
+      "игровой"
+    ]
   },
   {
     "id": "phn-inf-002",
@@ -285,7 +429,11 @@
     "price_rub": 22990,
     "stock": 1,
     "specs": "Helio G100, 6.78\" AMOLED, 108MP камера, 5000мАч, 2 SIM",
-    "tags": ["infinix", "android", "amoled"]
+    "tags": [
+      "infinix",
+      "android",
+      "amoled"
+    ]
   },
   {
     "id": "phn-hua-001",
@@ -294,7 +442,10 @@
     "price_rub": 14990,
     "stock": 1,
     "specs": "6.7\" IPS, 108MP камера, 4500мАч, 2 SIM",
-    "tags": ["huawei", "android"]
+    "tags": [
+      "huawei",
+      "android"
+    ]
   },
   {
     "id": "phn-tec-001",
@@ -303,7 +454,11 @@
     "price_rub": 18190,
     "stock": 1,
     "specs": "Helio G92, 6.78\" IPS, 50MP камера, 7000мАч, 2 SIM",
-    "tags": ["tecno", "android", "бюджетный"]
+    "tags": [
+      "tecno",
+      "android",
+      "бюджетный"
+    ]
   },
   {
     "id": "phn-tec-002",
@@ -312,7 +467,12 @@
     "price_rub": 22790,
     "stock": 1,
     "specs": "Dimensity 7300, 6.78\" AMOLED, 50MP камера, 6000мАч, 5G, 2 SIM",
-    "tags": ["tecno", "android", "5g", "amoled"]
+    "tags": [
+      "tecno",
+      "android",
+      "5g",
+      "amoled"
+    ]
   },
   {
     "id": "btn-nok-001",
@@ -321,7 +481,12 @@
     "price_rub": 2590,
     "stock": 1,
     "specs": "2 SIM, 1.8\" дисплей, FM-радио, фонарик, 800мАч",
-    "tags": ["nokia", "кнопочный", "2sim", "бюджетный"]
+    "tags": [
+      "nokia",
+      "кнопочный",
+      "2sim",
+      "бюджетный"
+    ]
   },
   {
     "id": "btn-nok-002",
@@ -330,7 +495,12 @@
     "price_rub": 2490,
     "stock": 1,
     "specs": "2 SIM, 1.8\" дисплей, FM-радио, фонарик, 800мАч",
-    "tags": ["nokia", "кнопочный", "2sim", "бюджетный"]
+    "tags": [
+      "nokia",
+      "кнопочный",
+      "2sim",
+      "бюджетный"
+    ]
   },
   {
     "id": "btn-nok-003",
@@ -339,7 +509,11 @@
     "price_rub": 2590,
     "stock": 1,
     "specs": "2 SIM, 1.8\" дисплей, FM-радио, фонарик",
-    "tags": ["nokia", "кнопочный", "2sim"]
+    "tags": [
+      "nokia",
+      "кнопочный",
+      "2sim"
+    ]
   },
   {
     "id": "btn-nok-004",
@@ -348,7 +522,11 @@
     "price_rub": 2590,
     "stock": 1,
     "specs": "1 SIM, 1.8\" дисплей, FM-радио, фонарик",
-    "tags": ["nokia", "кнопочный", "1sim"]
+    "tags": [
+      "nokia",
+      "кнопочный",
+      "1sim"
+    ]
   },
   {
     "id": "btn-nok-005",
@@ -357,7 +535,12 @@
     "price_rub": 2990,
     "stock": 1,
     "specs": "2 SIM, 1.8\" дисплей, камера, FM-радио, Bluetooth",
-    "tags": ["nokia", "кнопочный", "2sim", "камера"]
+    "tags": [
+      "nokia",
+      "кнопочный",
+      "2sim",
+      "камера"
+    ]
   },
   {
     "id": "btn-phi-001",
@@ -366,7 +549,12 @@
     "price_rub": 2490,
     "stock": 1,
     "specs": "2 SIM, 2.4\" дисплей, FM-радио, фонарик, 1000мАч",
-    "tags": ["philips", "xenium", "кнопочный", "2sim"]
+    "tags": [
+      "philips",
+      "xenium",
+      "кнопочный",
+      "2sim"
+    ]
   },
   {
     "id": "btn-phi-002",
@@ -375,7 +563,12 @@
     "price_rub": 3190,
     "stock": 1,
     "specs": "2 SIM, 2.4\" дисплей, FM-радио, фонарик, 1000мАч",
-    "tags": ["philips", "xenium", "кнопочный", "2sim"]
+    "tags": [
+      "philips",
+      "xenium",
+      "кнопочный",
+      "2sim"
+    ]
   },
   {
     "id": "btn-phi-003",
@@ -384,7 +577,12 @@
     "price_rub": 2690,
     "stock": 2,
     "specs": "2 SIM, 2.4\" дисплей, FM-радио, фонарик, 1700мАч",
-    "tags": ["philips", "xenium", "кнопочный", "2sim"]
+    "tags": [
+      "philips",
+      "xenium",
+      "кнопочный",
+      "2sim"
+    ]
   },
   {
     "id": "btn-phi-004",
@@ -393,7 +591,12 @@
     "price_rub": 3490,
     "stock": 2,
     "specs": "2 SIM, 2.4\" дисплей, FM-радио, фонарик, 1700мАч",
-    "tags": ["philips", "xenium", "кнопочный", "2sim"]
+    "tags": [
+      "philips",
+      "xenium",
+      "кнопочный",
+      "2sim"
+    ]
   },
   {
     "id": "btn-phi-005",
@@ -402,7 +605,13 @@
     "price_rub": 3490,
     "stock": 1,
     "specs": "2 SIM, 2.8\" дисплей, мощный динамик, фонарик, 3000мАч",
-    "tags": ["philips", "xenium", "кнопочный", "2sim", "мощный аккумулятор"]
+    "tags": [
+      "philips",
+      "xenium",
+      "кнопочный",
+      "2sim",
+      "мощный аккумулятор"
+    ]
   },
   {
     "id": "btn-phi-006",
@@ -411,7 +620,12 @@
     "price_rub": 3390,
     "stock": 2,
     "specs": "2 SIM, 2.4\" дисплей, FM-радио, фонарик",
-    "tags": ["philips", "xenium", "кнопочный", "2sim"]
+    "tags": [
+      "philips",
+      "xenium",
+      "кнопочный",
+      "2sim"
+    ]
   },
   {
     "id": "btn-phi-007",
@@ -420,7 +634,13 @@
     "price_rub": 3990,
     "stock": 1,
     "specs": "2 SIM, раскладушка, 2.4\" дисплей, FM-радио",
-    "tags": ["philips", "xenium", "кнопочный", "2sim", "раскладушка"]
+    "tags": [
+      "philips",
+      "xenium",
+      "кнопочный",
+      "2sim",
+      "раскладушка"
+    ]
   },
   {
     "id": "btn-phi-008",
@@ -429,7 +649,13 @@
     "price_rub": 3190,
     "stock": 2,
     "specs": "2 SIM, 2.8\" дисплей, FM-радио, фонарик, 3000мАч",
-    "tags": ["philips", "xenium", "кнопочный", "2sim", "мощный аккумулятор"]
+    "tags": [
+      "philips",
+      "xenium",
+      "кнопочный",
+      "2sim",
+      "мощный аккумулятор"
+    ]
   },
   {
     "id": "btn-phi-009",
@@ -438,7 +664,13 @@
     "price_rub": 3190,
     "stock": 1,
     "specs": "2 SIM, 2.8\" дисплей, FM-радио, фонарик, 3000мАч",
-    "tags": ["philips", "xenium", "кнопочный", "2sim", "мощный аккумулятор"]
+    "tags": [
+      "philips",
+      "xenium",
+      "кнопочный",
+      "2sim",
+      "мощный аккумулятор"
+    ]
   },
   {
     "id": "btn-phi-010",
@@ -447,7 +679,12 @@
     "price_rub": 2490,
     "stock": 3,
     "specs": "2 SIM, 2.4\" дисплей, dok-станция в комплекте, FM-радио",
-    "tags": ["philips", "xenium", "кнопочный", "2sim"]
+    "tags": [
+      "philips",
+      "xenium",
+      "кнопочный",
+      "2sim"
+    ]
   },
   {
     "id": "btn-phi-011",
@@ -456,7 +693,12 @@
     "price_rub": 2490,
     "stock": 2,
     "specs": "2 SIM, 2.4\" дисплей, dok-станция в комплекте, FM-радио",
-    "tags": ["philips", "xenium", "кнопочный", "2sim"]
+    "tags": [
+      "philips",
+      "xenium",
+      "кнопочный",
+      "2sim"
+    ]
   },
   {
     "id": "btn-phi-012",
@@ -465,7 +707,13 @@
     "price_rub": 5490,
     "stock": 1,
     "specs": "2 SIM, 3.0\" дисплей, FM-радио, 5000мАч, мощный динамик",
-    "tags": ["philips", "xenium", "кнопочный", "2sim", "мощный аккумулятор"]
+    "tags": [
+      "philips",
+      "xenium",
+      "кнопочный",
+      "2sim",
+      "мощный аккумулятор"
+    ]
   },
   {
     "id": "btn-mxv-001",
@@ -474,7 +722,12 @@
     "price_rub": 1790,
     "stock": 1,
     "specs": "1 SIM, 1.77\" дисплей, FM-радио, фонарик",
-    "tags": ["maxvi", "кнопочный", "1sim", "бюджетный"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "1sim",
+      "бюджетный"
+    ]
   },
   {
     "id": "btn-mxv-002",
@@ -483,7 +736,12 @@
     "price_rub": 1890,
     "stock": 2,
     "specs": "2 SIM, 1.77\" дисплей, FM-радио, фонарик",
-    "tags": ["maxvi", "кнопочный", "2sim", "бюджетный"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "2sim",
+      "бюджетный"
+    ]
   },
   {
     "id": "btn-mxv-003",
@@ -492,7 +750,12 @@
     "price_rub": 1890,
     "stock": 1,
     "specs": "2 SIM, 1.77\" дисплей, FM-радио, фонарик",
-    "tags": ["maxvi", "кнопочный", "2sim", "бюджетный"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "2sim",
+      "бюджетный"
+    ]
   },
   {
     "id": "btn-mxv-004",
@@ -501,7 +764,11 @@
     "price_rub": 2290,
     "stock": 1,
     "specs": "2 SIM, 2.0\" дисплей, FM-радио, фонарик, 1000мАч",
-    "tags": ["maxvi", "кнопочный", "2sim"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "2sim"
+    ]
   },
   {
     "id": "btn-mxv-005",
@@ -510,7 +777,11 @@
     "price_rub": 2290,
     "stock": 1,
     "specs": "2 SIM, 2.0\" дисплей, FM-радио, фонарик, 1000мАч",
-    "tags": ["maxvi", "кнопочный", "2sim"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "2sim"
+    ]
   },
   {
     "id": "btn-mxv-006",
@@ -519,7 +790,12 @@
     "price_rub": 1590,
     "stock": 1,
     "specs": "2 SIM, 1.77\" дисплей, FM-радио, фонарик",
-    "tags": ["maxvi", "кнопочный", "2sim", "бюджетный"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "2sim",
+      "бюджетный"
+    ]
   },
   {
     "id": "btn-mxv-007",
@@ -528,7 +804,12 @@
     "price_rub": 1590,
     "stock": 1,
     "specs": "2 SIM, 1.77\" дисплей, FM-радио, фонарик",
-    "tags": ["maxvi", "кнопочный", "2sim", "бюджетный"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "2sim",
+      "бюджетный"
+    ]
   },
   {
     "id": "btn-mxv-008",
@@ -537,7 +818,11 @@
     "price_rub": 2590,
     "stock": 1,
     "specs": "2 SIM, 2.4\" дисплей, FM-радио, фонарик, мощный аккумулятор",
-    "tags": ["maxvi", "кнопочный", "2sim"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "2sim"
+    ]
   },
   {
     "id": "btn-mxv-009",
@@ -546,7 +831,11 @@
     "price_rub": 2590,
     "stock": 1,
     "specs": "2 SIM, 2.4\" дисплей, FM-радио, фонарик, мощный аккумулятор",
-    "tags": ["maxvi", "кнопочный", "2sim"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "2sim"
+    ]
   },
   {
     "id": "btn-mxv-010",
@@ -555,7 +844,11 @@
     "price_rub": 2690,
     "stock": 1,
     "specs": "2 SIM, 2.4\" дисплей, FM-радио, фонарик",
-    "tags": ["maxvi", "кнопочный", "2sim"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "2sim"
+    ]
   },
   {
     "id": "btn-mxv-011",
@@ -564,7 +857,12 @@
     "price_rub": 990,
     "stock": 1,
     "specs": "1 SIM, 1.77\" дисплей, фонарик",
-    "tags": ["maxvi", "кнопочный", "1sim", "бюджетный"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "1sim",
+      "бюджетный"
+    ]
   },
   {
     "id": "btn-mxv-012",
@@ -573,7 +871,12 @@
     "price_rub": 1590,
     "stock": 1,
     "specs": "2 SIM, 1.77\" дисплей, FM-радио, фонарик",
-    "tags": ["maxvi", "кнопочный", "2sim", "бюджетный"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "2sim",
+      "бюджетный"
+    ]
   },
   {
     "id": "btn-mxv-013",
@@ -582,7 +885,12 @@
     "price_rub": 1790,
     "stock": 1,
     "specs": "2 SIM, 1.77\" дисплей, FM-радио, фонарик",
-    "tags": ["maxvi", "кнопочный", "2sim", "бюджетный"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "2sim",
+      "бюджетный"
+    ]
   },
   {
     "id": "btn-mxv-014",
@@ -591,7 +899,13 @@
     "price_rub": 1790,
     "stock": 1,
     "specs": "2 SIM, раскладушка, 1.77\" дисплей, FM-радио",
-    "tags": ["maxvi", "кнопочный", "2sim", "раскладушка", "бюджетный"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "2sim",
+      "раскладушка",
+      "бюджетный"
+    ]
   },
   {
     "id": "btn-mxv-015",
@@ -600,7 +914,12 @@
     "price_rub": 2390,
     "stock": 3,
     "specs": "2 SIM, раскладушка, 2.4\" дисплей, FM-радио, фонарик",
-    "tags": ["maxvi", "кнопочный", "2sim", "раскладушка"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "2sim",
+      "раскладушка"
+    ]
   },
   {
     "id": "btn-mxv-016",
@@ -609,7 +928,13 @@
     "price_rub": 3190,
     "stock": 1,
     "specs": "2 SIM, раскладушка, 2.4\" дисплей, FM-радио, камера",
-    "tags": ["maxvi", "кнопочный", "2sim", "раскладушка", "камера"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "2sim",
+      "раскладушка",
+      "камера"
+    ]
   },
   {
     "id": "btn-mxv-017",
@@ -618,7 +943,13 @@
     "price_rub": 3190,
     "stock": 1,
     "specs": "2 SIM, раскладушка, 2.4\" дисплей, FM-радио, камера",
-    "tags": ["maxvi", "кнопочный", "2sim", "раскладушка", "камера"]
+    "tags": [
+      "maxvi",
+      "кнопочный",
+      "2sim",
+      "раскладушка",
+      "камера"
+    ]
   },
   {
     "id": "btn-ino-001",
@@ -627,7 +958,11 @@
     "price_rub": 2490,
     "stock": 1,
     "specs": "2 SIM, 2.8\" дисплей, FM-радио, фонарик, 1700мАч",
-    "tags": ["inoi", "кнопочный", "2sim"]
+    "tags": [
+      "inoi",
+      "кнопочный",
+      "2sim"
+    ]
   },
   {
     "id": "tab-xia-001",
@@ -636,7 +971,12 @@
     "price_rub": 27990,
     "stock": 1,
     "specs": "Snapdragon 7s Gen 2, 12.1\" LCD 120Гц, 10000мАч, Wi-Fi",
-    "tags": ["xiaomi", "poco", "планшет", "android"]
+    "tags": [
+      "xiaomi",
+      "poco",
+      "планшет",
+      "android"
+    ]
   },
   {
     "id": "tab-sam-001",
@@ -645,7 +985,12 @@
     "price_rub": 19990,
     "stock": 1,
     "specs": "Snapdragon 695, 11\" IPS 90Гц, 7040мАч, LTE, 2 SIM",
-    "tags": ["samsung", "планшет", "android", "lte"]
+    "tags": [
+      "samsung",
+      "планшет",
+      "android",
+      "lte"
+    ]
   },
   {
     "id": "tab-sam-002",
@@ -654,7 +999,13 @@
     "price_rub": 1990,
     "stock": 1,
     "specs": "8.7\" IPS, 5100мАч, LTE, 2 SIM",
-    "tags": ["samsung", "планшет", "android", "lte", "бюджетный"]
+    "tags": [
+      "samsung",
+      "планшет",
+      "android",
+      "lte",
+      "бюджетный"
+    ]
   },
   {
     "id": "spk-yna-001",
@@ -663,7 +1014,12 @@
     "price_rub": 32990,
     "stock": 1,
     "specs": "Zigbee хаб, HDMI, Bluetooth, Wi-Fi, Алиса, 65Вт звук",
-    "tags": ["яндекс", "умная колонка", "алиса", "zigbee"]
+    "tags": [
+      "яндекс",
+      "умная колонка",
+      "алиса",
+      "zigbee"
+    ]
   },
   {
     "id": "spk-yna-002",
@@ -672,7 +1028,12 @@
     "price_rub": 32990,
     "stock": 1,
     "specs": "Zigbee хаб, HDMI, Bluetooth, Wi-Fi, Алиса, 65Вт звук",
-    "tags": ["яндекс", "умная колонка", "алиса", "zigbee"]
+    "tags": [
+      "яндекс",
+      "умная колонка",
+      "алиса",
+      "zigbee"
+    ]
   },
   {
     "id": "spk-yna-003",
@@ -681,7 +1042,12 @@
     "price_rub": 9990,
     "stock": 1,
     "specs": "Bluetooth, Wi-Fi, Алиса, часы с будильником, 6Вт звук",
-    "tags": ["яндекс", "умная колонка", "алиса", "мини"]
+    "tags": [
+      "яндекс",
+      "умная колонка",
+      "алиса",
+      "мини"
+    ]
   },
   {
     "id": "spk-yna-004",
@@ -690,7 +1056,13 @@
     "price_rub": 12990,
     "stock": 1,
     "specs": "Bluetooth, Wi-Fi, Алиса, влагозащита IPX5, 10Вт, для улицы",
-    "tags": ["яндекс", "умная колонка", "алиса", "улица", "влагозащита"]
+    "tags": [
+      "яндекс",
+      "умная колонка",
+      "алиса",
+      "улица",
+      "влагозащита"
+    ]
   },
   {
     "id": "spk-snd-001",
@@ -699,7 +1071,12 @@
     "price_rub": 11990,
     "stock": 1,
     "specs": "Bluetooth 5.3, 40Вт, влагозащита IPX7, Hi-Res Audio, до 12 часов",
-    "tags": ["soundcore", "колонка", "bluetooth", "влагозащита"]
+    "tags": [
+      "soundcore",
+      "колонка",
+      "bluetooth",
+      "влагозащита"
+    ]
   },
   {
     "id": "spk-snd-002",
@@ -708,15 +1085,3109 @@
     "price_rub": 11990,
     "stock": 1,
     "specs": "Bluetooth 5.3, 40Вт, влагозащита IPX7, Hi-Res Audio, до 12 часов",
-    "tags": ["soundcore", "колонка", "bluetooth", "влагозащита"]
+    "tags": [
+      "soundcore",
+      "колонка",
+      "bluetooth",
+      "влагозащита"
+    ]
+  },
+  {
+    "id": "iph-13-128-blue",
+    "name": "iPhone 13 128GB Blue",
+    "category": "смартфон",
+    "price_rub": 53990,
+    "price_cash": 48591,
+    "stock": 1,
+    "specs": "Apple A15 Bionic, 6.1\" Super Retina XDR, 12MP, 3227мАч, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-13-128-green",
+    "name": "iPhone 13 128GB Green",
+    "category": "смартфон",
+    "price_rub": 53990,
+    "price_cash": 48591,
+    "stock": 1,
+    "specs": "Apple A15 Bionic, 6.1\" Super Retina XDR, 12MP, 3227мАч, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-13-128-midnight",
+    "name": "iPhone 13 128GB Midnight",
+    "category": "смартфон",
+    "price_rub": 53990,
+    "price_cash": 48591,
+    "stock": 1,
+    "specs": "Apple A15 Bionic, 6.1\" Super Retina XDR, 12MP, 3227мАч, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-13-128-pink",
+    "name": "iPhone 13 128GB Pink",
+    "category": "смартфон",
+    "price_rub": 55990,
+    "price_cash": 50391,
+    "stock": 1,
+    "specs": "Apple A15 Bionic, 6.1\" Super Retina XDR, 12MP, 3227мАч, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-13-128-starlight",
+    "name": "iPhone 13 128GB Starlight",
+    "category": "смартфон",
+    "price_rub": 53990,
+    "price_cash": 48591,
+    "stock": 1,
+    "specs": "Apple A15 Bionic, 6.1\" Super Retina XDR, 12MP, 3227мАч, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-13-256-green",
+    "name": "iPhone 13 256GB Green",
+    "category": "смартфон",
+    "price_rub": 63990,
+    "price_cash": 57591,
+    "stock": 1,
+    "specs": "Apple A15 Bionic, 6.1\" Super Retina XDR, 12MP, 3227мАч, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-13-256-midnight",
+    "name": "iPhone 13 256GB Midnight",
+    "category": "смартфон",
+    "price_rub": 63990,
+    "price_cash": 57591,
+    "stock": 1,
+    "specs": "Apple A15 Bionic, 6.1\" Super Retina XDR, 12MP, 3227мАч, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-13-256-pink",
+    "name": "iPhone 13 256GB Pink",
+    "category": "смартфон",
+    "price_rub": 65990,
+    "price_cash": 59391,
+    "stock": 1,
+    "specs": "Apple A15 Bionic, 6.1\" Super Retina XDR, 12MP, 3227мАч, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-13-256-starlight",
+    "name": "iPhone 13 256GB Starlight",
+    "category": "смартфон",
+    "price_rub": 65990,
+    "price_cash": 59391,
+    "stock": 1,
+    "specs": "Apple A15 Bionic, 6.1\" Super Retina XDR, 12MP, 3227мАч, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-14-128-blue",
+    "name": "iPhone 14 128GB Blue",
+    "category": "смартфон",
+    "price_rub": 55990,
+    "price_cash": 52071,
+    "stock": 1,
+    "specs": "Apple A15 Bionic, 6.1\" Super Retina XDR, 12MP, 3279мАч, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-14-128-midnight",
+    "name": "iPhone 14 128GB Midnight",
+    "category": "смартфон",
+    "price_rub": 58990,
+    "price_cash": 54861,
+    "stock": 1,
+    "specs": "Apple A15 Bionic, 6.1\" Super Retina XDR, 12MP, 3279мАч, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-14-128-purple",
+    "name": "iPhone 14 128GB Purple",
+    "category": "смартфон",
+    "price_rub": 58990,
+    "price_cash": 54861,
+    "stock": 1,
+    "specs": "Apple A15 Bionic, 6.1\" Super Retina XDR, 12MP, 3279мАч, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-14-128-red",
+    "name": "iPhone 14 128GB Red",
+    "category": "смартфон",
+    "price_rub": 58990,
+    "price_cash": 54861,
+    "stock": 1,
+    "specs": "Apple A15 Bionic, 6.1\" Super Retina XDR, 12MP, 3279мАч, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-14-128-starlight",
+    "name": "iPhone 14 128GB Starlight",
+    "category": "смартфон",
+    "price_rub": 58990,
+    "price_cash": 54861,
+    "stock": 1,
+    "specs": "Apple A15 Bionic, 6.1\" Super Retina XDR, 12MP, 3279мАч, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-15-128-black",
+    "name": "iPhone 15 128GB Black",
+    "category": "смартфон",
+    "price_rub": 61990,
+    "price_cash": 55791,
+    "stock": 1,
+    "specs": "Apple A16 Bionic, 6.1\" Super Retina XDR, 48MP, 3877мАч, USB-C, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-15-128-blue",
+    "name": "iPhone 15 128GB Blue",
+    "category": "смартфон",
+    "price_rub": 61990,
+    "price_cash": 55791,
+    "stock": 1,
+    "specs": "Apple A16 Bionic, 6.1\" Super Retina XDR, 48MP, 3877мАч, USB-C, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-15-128-green",
+    "name": "iPhone 15 128GB Green",
+    "category": "смартфон",
+    "price_rub": 61990,
+    "price_cash": 55791,
+    "stock": 1,
+    "specs": "Apple A16 Bionic, 6.1\" Super Retina XDR, 48MP, 3877мАч, USB-C, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-15-128-pink",
+    "name": "iPhone 15 128GB Pink",
+    "category": "смартфон",
+    "price_rub": 61990,
+    "price_cash": 55791,
+    "stock": 1,
+    "specs": "Apple A16 Bionic, 6.1\" Super Retina XDR, 48MP, 3877мАч, USB-C, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-15-256-black",
+    "name": "iPhone 15 256GB Black",
+    "category": "смартфон",
+    "price_rub": 69990,
+    "price_cash": 62991,
+    "stock": 1,
+    "specs": "Apple A16 Bionic, 6.1\" Super Retina XDR, 48MP, 3877мАч, USB-C, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-15-256-blue",
+    "name": "iPhone 15 256GB Blue",
+    "category": "смартфон",
+    "price_rub": 69990,
+    "price_cash": 62991,
+    "stock": 1,
+    "specs": "Apple A16 Bionic, 6.1\" Super Retina XDR, 48MP, 3877мАч, USB-C, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-15-256-green",
+    "name": "iPhone 15 256GB Green",
+    "category": "смартфон",
+    "price_rub": 74990,
+    "price_cash": 67491,
+    "stock": 1,
+    "specs": "Apple A16 Bionic, 6.1\" Super Retina XDR, 48MP, 3877мАч, USB-C, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-15-256-pink",
+    "name": "iPhone 15 256GB Pink",
+    "category": "смартфон",
+    "price_rub": 74990,
+    "price_cash": 67491,
+    "stock": 1,
+    "specs": "Apple A16 Bionic, 6.1\" Super Retina XDR, 48MP, 3877мАч, USB-C, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман"
+    ]
+  },
+  {
+    "id": "iph-15pm-1t-white",
+    "name": "iPhone 15 Pro Max 1TB White Titanium",
+    "category": "смартфон",
+    "price_rub": 139990,
+    "price_cash": 118992,
+    "stock": 1,
+    "specs": "Apple A17 Pro, 6.7\" Super Retina XDR ProMotion, 48MP, 4422мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max"
+    ]
+  },
+  {
+    "id": "iph-15pm-256-black",
+    "name": "iPhone 15 Pro Max 256GB Black Titanium",
+    "category": "смартфон",
+    "price_rub": 126990,
+    "price_cash": 107942,
+    "stock": 1,
+    "specs": "Apple A17 Pro, 6.7\" Super Retina XDR ProMotion, 48MP, 4422мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max"
+    ]
+  },
+  {
+    "id": "iph-15pm-256-blue",
+    "name": "iPhone 15 Pro Max 256GB Blue Titanium",
+    "category": "смартфон",
+    "price_rub": 124990,
+    "price_cash": 106242,
+    "stock": 1,
+    "specs": "Apple A17 Pro, 6.7\" Super Retina XDR ProMotion, 48MP, 4422мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max"
+    ]
+  },
+  {
+    "id": "iph-15pm-256-natural",
+    "name": "iPhone 15 Pro Max 256GB Natural Titanium",
+    "category": "смартфон",
+    "price_rub": 124990,
+    "price_cash": 106242,
+    "stock": 1,
+    "specs": "Apple A17 Pro, 6.7\" Super Retina XDR ProMotion, 48MP, 4422мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max"
+    ]
+  },
+  {
+    "id": "iph-15pm-256-white",
+    "name": "iPhone 15 Pro Max 256GB White Titanium",
+    "category": "смартфон",
+    "price_rub": 124990,
+    "price_cash": 106242,
+    "stock": 1,
+    "specs": "Apple A17 Pro, 6.7\" Super Retina XDR ProMotion, 48MP, 4422мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max"
+    ]
+  },
+  {
+    "id": "iph-16-128-black",
+    "name": "iPhone 16 128GB Black",
+    "category": "смартфон",
+    "price_rub": 65990,
+    "price_cash": 56092,
+    "stock": 1,
+    "specs": "Apple A18, 6.1\" Super Retina XDR, 48MP, 3561мАч, USB-C, кнопка Camera Control, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 16"
+    ]
+  },
+  {
+    "id": "iph-16-128-pink",
+    "name": "iPhone 16 128GB Pink",
+    "category": "смартфон",
+    "price_rub": 66990,
+    "price_cash": 56942,
+    "stock": 1,
+    "specs": "Apple A18, 6.1\" Super Retina XDR, 48MP, 3561мАч, USB-C, кнопка Camera Control, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 16"
+    ]
+  },
+  {
+    "id": "iph-16-128-teal",
+    "name": "iPhone 16 128GB Teal",
+    "category": "смартфон",
+    "price_rub": 65990,
+    "price_cash": 56092,
+    "stock": 1,
+    "specs": "Apple A18, 6.1\" Super Retina XDR, 48MP, 3561мАч, USB-C, кнопка Camera Control, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 16"
+    ]
+  },
+  {
+    "id": "iph-16-128-ultra",
+    "name": "iPhone 16 128GB Ultramarine",
+    "category": "смартфон",
+    "price_rub": 65990,
+    "price_cash": 56092,
+    "stock": 1,
+    "specs": "Apple A18, 6.1\" Super Retina XDR, 48MP, 3561мАч, USB-C, кнопка Camera Control, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 16"
+    ]
+  },
+  {
+    "id": "iph-16-128-white",
+    "name": "iPhone 16 128GB White",
+    "category": "смартфон",
+    "price_rub": 65990,
+    "price_cash": 56092,
+    "stock": 1,
+    "specs": "Apple A18, 6.1\" Super Retina XDR, 48MP, 3561мАч, USB-C, кнопка Camera Control, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 16"
+    ]
+  },
+  {
+    "id": "iph-16-256-black",
+    "name": "iPhone 16 256GB Black",
+    "category": "смартфон",
+    "price_rub": 78990,
+    "price_cash": 67142,
+    "stock": 1,
+    "specs": "Apple A18, 6.1\" Super Retina XDR, 48MP, 3561мАч, USB-C, кнопка Camera Control, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 16"
+    ]
+  },
+  {
+    "id": "iph-16-256-pink",
+    "name": "iPhone 16 256GB Pink",
+    "category": "смартфон",
+    "price_rub": 73990,
+    "price_cash": 62892,
+    "stock": 1,
+    "specs": "Apple A18, 6.1\" Super Retina XDR, 48MP, 3561мАч, USB-C, кнопка Camera Control, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 16"
+    ]
+  },
+  {
+    "id": "iph-16-256-teal",
+    "name": "iPhone 16 256GB Teal",
+    "category": "смартфон",
+    "price_rub": 80990,
+    "price_cash": 68842,
+    "stock": 1,
+    "specs": "Apple A18, 6.1\" Super Retina XDR, 48MP, 3561мАч, USB-C, кнопка Camera Control, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 16"
+    ]
+  },
+  {
+    "id": "iph-16-256-ultra",
+    "name": "iPhone 16 256GB Ultramarine",
+    "category": "смартфон",
+    "price_rub": 80990,
+    "price_cash": 68842,
+    "stock": 1,
+    "specs": "Apple A18, 6.1\" Super Retina XDR, 48MP, 3561мАч, USB-C, кнопка Camera Control, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 16"
+    ]
+  },
+  {
+    "id": "iph-16-256-white",
+    "name": "iPhone 16 256GB White",
+    "category": "смартфон",
+    "price_rub": 77990,
+    "price_cash": 66292,
+    "stock": 1,
+    "specs": "Apple A18, 6.1\" Super Retina XDR, 48MP, 3561мАч, USB-C, кнопка Camera Control, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 16"
+    ]
+  },
+  {
+    "id": "iph-16-512-black",
+    "name": "iPhone 16 512GB Black",
+    "category": "смартфон",
+    "price_rub": 105990,
+    "price_cash": 95391,
+    "stock": 1,
+    "specs": "Apple A18, 6.1\" Super Retina XDR, 48MP, 3561мАч, USB-C, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 16"
+    ]
+  },
+  {
+    "id": "iph-16-512-white",
+    "name": "iPhone 16 512GB White",
+    "category": "смартфон",
+    "price_rub": 105990,
+    "price_cash": 95391,
+    "stock": 1,
+    "specs": "Apple A18, 6.1\" Super Retina XDR, 48MP, 3561мАч, USB-C, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 16"
+    ]
+  },
+  {
+    "id": "iph-16p-128-black",
+    "name": "iPhone 16 Pro 128GB Black Titanium",
+    "category": "смартфон",
+    "price_rub": 102990,
+    "price_cash": 92691,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, 3582мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 16 pro"
+    ]
+  },
+  {
+    "id": "iph-16p-128-desert",
+    "name": "iPhone 16 Pro 128GB Desert Titanium",
+    "category": "смартфон",
+    "price_rub": 102990,
+    "price_cash": 92691,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, 3582мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 16 pro"
+    ]
+  },
+  {
+    "id": "iph-16p-128-natural",
+    "name": "iPhone 16 Pro 128GB Natural Titanium",
+    "category": "смартфон",
+    "price_rub": 102990,
+    "price_cash": 92691,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, 3582мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 16 pro"
+    ]
+  },
+  {
+    "id": "iph-16p-128-white",
+    "name": "iPhone 16 Pro 128GB White Titanium",
+    "category": "смартфон",
+    "price_rub": 102990,
+    "price_cash": 92691,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, 3582мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 16 pro"
+    ]
+  },
+  {
+    "id": "iph-16p-256-black",
+    "name": "iPhone 16 Pro 256GB Black Titanium",
+    "category": "смартфон",
+    "price_rub": 128990,
+    "price_cash": 116091,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, 3582мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 16 pro"
+    ]
+  },
+  {
+    "id": "iph-16p-256-desert",
+    "name": "iPhone 16 Pro 256GB Desert Titanium",
+    "category": "смартфон",
+    "price_rub": 128990,
+    "price_cash": 116091,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, 3582мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 16 pro"
+    ]
+  },
+  {
+    "id": "iph-16p-256-natural",
+    "name": "iPhone 16 Pro 256GB Natural Titanium",
+    "category": "смартфон",
+    "price_rub": 128990,
+    "price_cash": 116091,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, 3582мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 16 pro"
+    ]
+  },
+  {
+    "id": "iph-16p-256-white",
+    "name": "iPhone 16 Pro 256GB White Titanium",
+    "category": "смартфон",
+    "price_rub": 128990,
+    "price_cash": 116091,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, 3582мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 16 pro"
+    ]
+  },
+  {
+    "id": "iph-16p-512-black",
+    "name": "iPhone 16 Pro 512GB Black Titanium",
+    "category": "смартфон",
+    "price_rub": 140990,
+    "price_cash": 126891,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, 3582мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 16 pro"
+    ]
+  },
+  {
+    "id": "iph-16p-512-desert",
+    "name": "iPhone 16 Pro 512GB Desert Titanium",
+    "category": "смартфон",
+    "price_rub": 140990,
+    "price_cash": 126891,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, 3582мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 16 pro"
+    ]
+  },
+  {
+    "id": "iph-16p-512-natural",
+    "name": "iPhone 16 Pro 512GB Natural Titanium",
+    "category": "смартфон",
+    "price_rub": 140990,
+    "price_cash": 126891,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, 3582мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 16 pro"
+    ]
+  },
+  {
+    "id": "iph-16p-512-white",
+    "name": "iPhone 16 Pro 512GB White Titanium",
+    "category": "смартфон",
+    "price_rub": 140990,
+    "price_cash": 126891,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, 3582мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 16 pro"
+    ]
+  },
+  {
+    "id": "iph-16pm-1t-black",
+    "name": "iPhone 16 Pro Max 1TB Black Titanium",
+    "category": "смартфон",
+    "price_rub": 165990,
+    "price_cash": 149391,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, 4685мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 16 pro max"
+    ]
+  },
+  {
+    "id": "iph-16pm-1t-desert",
+    "name": "iPhone 16 Pro Max 1TB Desert Titanium",
+    "category": "смартфон",
+    "price_rub": 165990,
+    "price_cash": 149391,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, 4685мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 16 pro max"
+    ]
+  },
+  {
+    "id": "iph-16pm-1t-natural",
+    "name": "iPhone 16 Pro Max 1TB Natural Titanium",
+    "category": "смартфон",
+    "price_rub": 165990,
+    "price_cash": 149391,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, 4685мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 16 pro max"
+    ]
+  },
+  {
+    "id": "iph-16pm-1t-white",
+    "name": "iPhone 16 Pro Max 1TB White Titanium",
+    "category": "смартфон",
+    "price_rub": 165990,
+    "price_cash": 149391,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, 4685мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 16 pro max"
+    ]
+  },
+  {
+    "id": "iph-16pm-256-black",
+    "name": "iPhone 16 Pro Max 256GB Black Titanium",
+    "category": "смартфон",
+    "price_rub": 132990,
+    "price_cash": 119691,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, 4685мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 16 pro max"
+    ]
+  },
+  {
+    "id": "iph-16pm-256-desert",
+    "name": "iPhone 16 Pro Max 256GB Desert Titanium",
+    "category": "смартфон",
+    "price_rub": 132990,
+    "price_cash": 119691,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, 4685мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 16 pro max"
+    ]
+  },
+  {
+    "id": "iph-16pm-256-natural",
+    "name": "iPhone 16 Pro Max 256GB Natural Titanium",
+    "category": "смартфон",
+    "price_rub": 132990,
+    "price_cash": 119691,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, 4685мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 16 pro max"
+    ]
+  },
+  {
+    "id": "iph-16pm-256-white",
+    "name": "iPhone 16 Pro Max 256GB White Titanium",
+    "category": "смартфон",
+    "price_rub": 132990,
+    "price_cash": 119691,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, 4685мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 16 pro max"
+    ]
+  },
+  {
+    "id": "iph-16pm-512-black",
+    "name": "iPhone 16 Pro Max 512GB Black Titanium",
+    "category": "смартфон",
+    "price_rub": 145990,
+    "price_cash": 131391,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, 4685мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 16 pro max"
+    ]
+  },
+  {
+    "id": "iph-16pm-512-desert",
+    "name": "iPhone 16 Pro Max 512GB Desert Titanium",
+    "category": "смартфон",
+    "price_rub": 145990,
+    "price_cash": 131391,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, 4685мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 16 pro max"
+    ]
+  },
+  {
+    "id": "iph-16pm-512-natural",
+    "name": "iPhone 16 Pro Max 512GB Natural Titanium",
+    "category": "смартфон",
+    "price_rub": 145990,
+    "price_cash": 131391,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, 4685мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 16 pro max"
+    ]
+  },
+  {
+    "id": "iph-16pm-512-white",
+    "name": "iPhone 16 Pro Max 512GB White Titanium",
+    "category": "смартфон",
+    "price_rub": 145990,
+    "price_cash": 131391,
+    "stock": 1,
+    "specs": "Apple A18 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, 4685мАч, USB-C, титановый корпус, 2 SIM (nano+eSIM)",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 16 pro max"
+    ]
+  },
+  {
+    "id": "iph-17-256-black-e",
+    "name": "iPhone 17 256GB Black eSIM",
+    "category": "смартфон",
+    "price_rub": 74990,
+    "price_cash": 63742,
+    "stock": 1,
+    "specs": "Apple A19, 6.1\" Super Retina XDR, 48MP, USB-C, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 17",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17-256-black-se",
+    "name": "iPhone 17 256GB Black SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 79990,
+    "price_cash": 67992,
+    "stock": 1,
+    "specs": "Apple A19, 6.1\" Super Retina XDR, 48MP, USB-C, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 17",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17-256-white-e",
+    "name": "iPhone 17 256GB White eSIM",
+    "category": "смартфон",
+    "price_rub": 74990,
+    "price_cash": 63742,
+    "stock": 1,
+    "specs": "Apple A19, 6.1\" Super Retina XDR, 48MP, USB-C, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 17",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17-256-white-se",
+    "name": "iPhone 17 256GB White SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 79990,
+    "price_cash": 67992,
+    "stock": 1,
+    "specs": "Apple A19, 6.1\" Super Retina XDR, 48MP, USB-C, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 17",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17-256-blue-e",
+    "name": "iPhone 17 256GB Mist Blue eSIM",
+    "category": "смартфон",
+    "price_rub": 74990,
+    "price_cash": 63742,
+    "stock": 1,
+    "specs": "Apple A19, 6.1\" Super Retina XDR, 48MP, USB-C, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 17",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17-256-blue-se",
+    "name": "iPhone 17 256GB Mist Blue SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 77990,
+    "price_cash": 66292,
+    "stock": 1,
+    "specs": "Apple A19, 6.1\" Super Retina XDR, 48MP, USB-C, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 17",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17-256-sage-se",
+    "name": "iPhone 17 256GB Sage SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 80990,
+    "price_cash": 68842,
+    "stock": 1,
+    "specs": "Apple A19, 6.1\" Super Retina XDR, 48MP, USB-C, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 17",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17-256-sage-e",
+    "name": "iPhone 17 256GB Sage eSIM",
+    "category": "смартфон",
+    "price_rub": 75990,
+    "price_cash": 64592,
+    "stock": 1,
+    "specs": "Apple A19, 6.1\" Super Retina XDR, 48MP, USB-C, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 17",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17-256-lav-se",
+    "name": "iPhone 17 256GB Lavender SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 81990,
+    "price_cash": 69692,
+    "stock": 1,
+    "specs": "Apple A19, 6.1\" Super Retina XDR, 48MP, USB-C, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 17",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17-256-lav-e",
+    "name": "iPhone 17 256GB Lavender eSIM",
+    "category": "смартфон",
+    "price_rub": 74990,
+    "price_cash": 63742,
+    "stock": 1,
+    "specs": "Apple A19, 6.1\" Super Retina XDR, 48MP, USB-C, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 17",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17-512-white-e",
+    "name": "iPhone 17 512GB White eSIM",
+    "category": "смартфон",
+    "price_rub": 95990,
+    "price_cash": 81592,
+    "stock": 1,
+    "specs": "Apple A19, 6.1\" Super Retina XDR, 48MP, USB-C, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 17",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17-512-black-e",
+    "name": "iPhone 17 512GB Black eSIM",
+    "category": "смартфон",
+    "price_rub": 95990,
+    "price_cash": 81592,
+    "stock": 1,
+    "specs": "Apple A19, 6.1\" Super Retina XDR, 48MP, USB-C, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 17",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17-512-blue-e",
+    "name": "iPhone 17 512GB Mist Blue eSIM",
+    "category": "смартфон",
+    "price_rub": 95990,
+    "price_cash": 81592,
+    "stock": 1,
+    "specs": "Apple A19, 6.1\" Super Retina XDR, 48MP, USB-C, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone 17",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17p-256-orange-e",
+    "name": "iPhone 17 Pro 256GB Cosmic Orange eSIM",
+    "category": "смартфон",
+    "price_rub": 111990,
+    "price_cash": 95192,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17p-256-orange-se",
+    "name": "iPhone 17 Pro 256GB Cosmic Orange SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 119990,
+    "price_cash": 101992,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17p-256-blue-e",
+    "name": "iPhone 17 Pro 256GB Deep Blue eSIM",
+    "category": "смартфон",
+    "price_rub": 111990,
+    "price_cash": 95192,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17p-256-blue-se",
+    "name": "iPhone 17 Pro 256GB Deep Blue SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 119990,
+    "price_cash": 101992,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17p-256-silver-e",
+    "name": "iPhone 17 Pro 256GB Silver eSIM",
+    "category": "смартфон",
+    "price_rub": 111990,
+    "price_cash": 95192,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17p-256-silver-se",
+    "name": "iPhone 17 Pro 256GB Silver SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 119990,
+    "price_cash": 101992,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17p-512-orange-e",
+    "name": "iPhone 17 Pro 512GB Cosmic Orange eSIM",
+    "category": "смартфон",
+    "price_rub": 126990,
+    "price_cash": 107942,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17p-512-orange-se",
+    "name": "iPhone 17 Pro 512GB Cosmic Orange SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 138990,
+    "price_cash": 118142,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17p-512-blue-e",
+    "name": "iPhone 17 Pro 512GB Deep Blue eSIM",
+    "category": "смартфон",
+    "price_rub": 134990,
+    "price_cash": 114742,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17p-512-blue-se",
+    "name": "iPhone 17 Pro 512GB Deep Blue SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 143990,
+    "price_cash": 122392,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17p-512-silver-e",
+    "name": "iPhone 17 Pro 512GB Silver eSIM",
+    "category": "смартфон",
+    "price_rub": 135990,
+    "price_cash": 115592,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17p-512-silver-se",
+    "name": "iPhone 17 Pro 512GB Silver SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 142990,
+    "price_cash": 121542,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17p-1t-orange-e",
+    "name": "iPhone 17 Pro 1TB Cosmic Orange eSIM",
+    "category": "смартфон",
+    "price_rub": 144990,
+    "price_cash": 123242,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17p-1t-orange-se",
+    "name": "iPhone 17 Pro 1TB Cosmic Orange SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 156990,
+    "price_cash": 133442,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17p-1t-blue-e",
+    "name": "iPhone 17 Pro 1TB Deep Blue eSIM",
+    "category": "смартфон",
+    "price_rub": 145990,
+    "price_cash": 124092,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17p-1t-blue-se",
+    "name": "iPhone 17 Pro 1TB Deep Blue SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 161990,
+    "price_cash": 137692,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17p-1t-silver-e",
+    "name": "iPhone 17 Pro 1TB Silver eSIM",
+    "category": "смартфон",
+    "price_rub": 149990,
+    "price_cash": 127492,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17p-1t-silver-se",
+    "name": "iPhone 17 Pro 1TB Silver SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 161990,
+    "price_cash": 137692,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.3\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "iphone 17 pro",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-256-orange-e",
+    "name": "iPhone 17 Pro Max 256GB Cosmic Orange eSIM",
+    "category": "смартфон",
+    "price_rub": 123990,
+    "price_cash": 105392,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-256-orange-se",
+    "name": "iPhone 17 Pro Max 256GB Cosmic Orange SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 128990,
+    "price_cash": 109642,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-256-blue-e",
+    "name": "iPhone 17 Pro Max 256GB Deep Blue eSIM",
+    "category": "смартфон",
+    "price_rub": 123990,
+    "price_cash": 105392,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-256-blue-se",
+    "name": "iPhone 17 Pro Max 256GB Deep Blue SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 130990,
+    "price_cash": 111342,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-256-silver-e",
+    "name": "iPhone 17 Pro Max 256GB Silver eSIM",
+    "category": "смартфон",
+    "price_rub": 123990,
+    "price_cash": 105392,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-256-silver-se",
+    "name": "iPhone 17 Pro Max 256GB Silver SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 130990,
+    "price_cash": 111342,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-512-orange-e",
+    "name": "iPhone 17 Pro Max 512GB Cosmic Orange eSIM",
+    "category": "смартфон",
+    "price_rub": 136990,
+    "price_cash": 116442,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-512-orange-se",
+    "name": "iPhone 17 Pro Max 512GB Cosmic Orange SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 147990,
+    "price_cash": 125792,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-512-blue-e",
+    "name": "iPhone 17 Pro Max 512GB Deep Blue eSIM",
+    "category": "смартфон",
+    "price_rub": 143990,
+    "price_cash": 122392,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-512-blue-se",
+    "name": "iPhone 17 Pro Max 512GB Deep Blue SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 155990,
+    "price_cash": 132592,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-512-silver-e",
+    "name": "iPhone 17 Pro Max 512GB Silver eSIM",
+    "category": "смартфон",
+    "price_rub": 150990,
+    "price_cash": 128342,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-512-silver-se",
+    "name": "iPhone 17 Pro Max 512GB Silver SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 158990,
+    "price_cash": 135142,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-1t-orange-e",
+    "name": "iPhone 17 Pro Max 1TB Cosmic Orange eSIM",
+    "category": "смартфон",
+    "price_rub": 148990,
+    "price_cash": 126642,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-1t-orange-se",
+    "name": "iPhone 17 Pro Max 1TB Cosmic Orange SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 172990,
+    "price_cash": 147042,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-1t-blue-e",
+    "name": "iPhone 17 Pro Max 1TB Deep Blue eSIM",
+    "category": "смартфон",
+    "price_rub": 158990,
+    "price_cash": 135142,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-1t-blue-se",
+    "name": "iPhone 17 Pro Max 1TB Deep Blue SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 176990,
+    "price_cash": 150442,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-1t-silver-e",
+    "name": "iPhone 17 Pro Max 1TB Silver eSIM",
+    "category": "смартфон",
+    "price_rub": 167990,
+    "price_cash": 142792,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-1t-silver-se",
+    "name": "iPhone 17 Pro Max 1TB Silver SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 187990,
+    "price_cash": 159792,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-2t-blue-e",
+    "name": "iPhone 17 Pro Max 2TB Dark Blue eSIM",
+    "category": "смартфон",
+    "price_rub": 178990,
+    "price_cash": 152142,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-2t-orange-e",
+    "name": "iPhone 17 Pro Max 2TB Cosmic Orange eSIM",
+    "category": "смартфон",
+    "price_rub": 175990,
+    "price_cash": 149592,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-2t-silver-e",
+    "name": "iPhone 17 Pro Max 2TB Silver eSIM",
+    "category": "смартфон",
+    "price_rub": 192990,
+    "price_cash": 164042,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17pm-2t-silver-se",
+    "name": "iPhone 17 Pro Max 2TB Silver SIM+eSIM",
+    "category": "смартфон",
+    "price_rub": 210990,
+    "stock": 1,
+    "specs": "Apple A19 Pro, 6.9\" Super Retina XDR ProMotion, 48MP, USB-C, титановый корпус, nano SIM + eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "pro",
+      "pro max",
+      "iphone 17 pro max",
+      "sim esim"
+    ]
+  },
+  {
+    "id": "iph-air-256-white-e",
+    "name": "iPhone Air 256GB Cloud White eSIM",
+    "category": "смартфон",
+    "price_rub": 91990,
+    "price_cash": 78192,
+    "stock": 1,
+    "specs": "Apple A19, 6.6\" Super Retina XDR, сверхтонкий корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone air",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-air-256-blue-e",
+    "name": "iPhone Air 256GB Sky Blue eSIM",
+    "category": "смартфон",
+    "price_rub": 83990,
+    "price_cash": 71392,
+    "stock": 1,
+    "specs": "Apple A19, 6.6\" Super Retina XDR, сверхтонкий корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone air",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-air-256-black-e",
+    "name": "iPhone Air 256GB Space Black eSIM",
+    "category": "смартфон",
+    "price_rub": 88990,
+    "price_cash": 75642,
+    "stock": 1,
+    "specs": "Apple A19, 6.6\" Super Retina XDR, сверхтонкий корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone air",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-air-512-white-e",
+    "name": "iPhone Air 512GB Cloud White eSIM",
+    "category": "смартфон",
+    "price_rub": 103990,
+    "price_cash": 88392,
+    "stock": 1,
+    "specs": "Apple A19, 6.6\" Super Retina XDR, сверхтонкий корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone air",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-air-512-blue-e",
+    "name": "iPhone Air 512GB Sky Blue eSIM",
+    "category": "смартфон",
+    "price_rub": 95990,
+    "price_cash": 81592,
+    "stock": 1,
+    "specs": "Apple A19, 6.6\" Super Retina XDR, сверхтонкий корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone air",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-air-512-black-e",
+    "name": "iPhone Air 512GB Space Black eSIM",
+    "category": "смартфон",
+    "price_rub": 97990,
+    "price_cash": 83292,
+    "stock": 1,
+    "specs": "Apple A19, 6.6\" Super Retina XDR, сверхтонкий корпус, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "флагман",
+      "iphone air",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17e-256-black-e",
+    "name": "iPhone 17e 256GB Black eSIM",
+    "category": "смартфон",
+    "price_rub": 64990,
+    "price_cash": 55242,
+    "stock": 1,
+    "specs": "Apple A18, 6.1\" Super Retina XDR, 48MP, USB-C, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "iphone 17e",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17e-256-pink-e",
+    "name": "iPhone 17e 256GB Soft Pink eSIM",
+    "category": "смартфон",
+    "price_rub": 64990,
+    "price_cash": 55242,
+    "stock": 1,
+    "specs": "Apple A18, 6.1\" Super Retina XDR, 48MP, USB-C, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "iphone 17e",
+      "esim"
+    ]
+  },
+  {
+    "id": "iph-17e-256-white-e",
+    "name": "iPhone 17e 256GB White eSIM",
+    "category": "смартфон",
+    "price_rub": 64990,
+    "price_cash": 55242,
+    "stock": 1,
+    "specs": "Apple A18, 6.1\" Super Retina XDR, 48MP, USB-C, только eSIM",
+    "tags": [
+      "iphone",
+      "apple",
+      "ios",
+      "iphone 17e",
+      "esim"
+    ]
+  },
+  {
+    "id": "aw-se2-40",
+    "name": "Apple Watch SE2 40mm",
+    "category": "умные часы",
+    "price_rub": 20990,
+    "price_cash": 19941,
+    "stock": 1,
+    "specs": "S8 чип, 40mm, GPS, уведомления, пульс, шагомер, алюминиевый корпус",
+    "tags": [
+      "apple",
+      "apple watch",
+      "умные часы",
+      "ios"
+    ]
+  },
+  {
+    "id": "aw-se2-44",
+    "name": "Apple Watch SE2 44mm",
+    "category": "умные часы",
+    "price_rub": 23990,
+    "price_cash": 22791,
+    "stock": 1,
+    "specs": "S8 чип, 44mm, GPS, уведомления, пульс, шагомер, алюминиевый корпус",
+    "tags": [
+      "apple",
+      "apple watch",
+      "умные часы",
+      "ios"
+    ]
+  },
+  {
+    "id": "aw-se3-40",
+    "name": "Apple Watch SE3 40mm",
+    "category": "умные часы",
+    "price_rub": 23990,
+    "price_cash": 22791,
+    "stock": 1,
+    "specs": "S9 чип, 40mm, GPS, уведомления, пульс, температура, алюминиевый корпус",
+    "tags": [
+      "apple",
+      "apple watch",
+      "умные часы",
+      "ios"
+    ]
+  },
+  {
+    "id": "aw-se3-44",
+    "name": "Apple Watch SE3 44mm",
+    "category": "умные часы",
+    "price_rub": 26990,
+    "price_cash": 25641,
+    "stock": 1,
+    "specs": "S9 чип, 44mm, GPS, уведомления, пульс, температура, алюминиевый корпус",
+    "tags": [
+      "apple",
+      "apple watch",
+      "умные часы",
+      "ios"
+    ]
+  },
+  {
+    "id": "aw-s10-42",
+    "name": "Apple Watch Series 10 42mm",
+    "category": "умные часы",
+    "price_rub": 30990,
+    "price_cash": 29441,
+    "stock": 1,
+    "specs": "S10 чип, 42mm, GPS, Always-On Retina, пульс, ЭКГ, температура, алюминиевый корпус",
+    "tags": [
+      "apple",
+      "apple watch",
+      "умные часы",
+      "ios",
+      "экг"
+    ]
+  },
+  {
+    "id": "aw-s10-46",
+    "name": "Apple Watch Series 10 46mm",
+    "category": "умные часы",
+    "price_rub": 33990,
+    "price_cash": 32291,
+    "stock": 1,
+    "specs": "S10 чип, 46mm, GPS, Always-On Retina, пульс, ЭКГ, температура, алюминиевый корпус",
+    "tags": [
+      "apple",
+      "apple watch",
+      "умные часы",
+      "ios",
+      "экг"
+    ]
+  },
+  {
+    "id": "aw-s11-42",
+    "name": "Apple Watch Series 11 42mm",
+    "category": "умные часы",
+    "price_rub": 33990,
+    "price_cash": 32291,
+    "stock": 1,
+    "specs": "S11 чип, 42mm, GPS, Always-On Retina, пульс, ЭКГ, сатурация, алюминиевый корпус",
+    "tags": [
+      "apple",
+      "apple watch",
+      "умные часы",
+      "ios",
+      "экг"
+    ]
+  },
+  {
+    "id": "aw-s11-46",
+    "name": "Apple Watch Series 11 46mm",
+    "category": "умные часы",
+    "price_rub": 35990,
+    "price_cash": 34191,
+    "stock": 1,
+    "specs": "S11 чип, 46mm, GPS, Always-On Retina, пульс, ЭКГ, сатурация, алюминиевый корпус",
+    "tags": [
+      "apple",
+      "apple watch",
+      "умные часы",
+      "ios",
+      "экг"
+    ]
+  },
+  {
+    "id": "aw-ultra2",
+    "name": "Apple Watch Ultra 2 49mm",
+    "category": "умные часы",
+    "price_rub": 63990,
+    "price_cash": 60791,
+    "stock": 1,
+    "specs": "S9 чип, 49mm, титановый корпус, GPS+L5, 60 часов автономности, для спорта и туризма",
+    "tags": [
+      "apple",
+      "apple watch",
+      "умные часы",
+      "ios",
+      "ultra",
+      "спорт"
+    ]
+  },
+  {
+    "id": "aw-ultra3",
+    "name": "Apple Watch Ultra 3 49mm Black",
+    "category": "умные часы",
+    "price_rub": 74990,
+    "price_cash": 71241,
+    "stock": 1,
+    "specs": "S10 чип, 49mm, чёрный титановый корпус, GPS+L5, 72 часа автономности, для спорта и туризма",
+    "tags": [
+      "apple",
+      "apple watch",
+      "умные часы",
+      "ios",
+      "ultra",
+      "спорт"
+    ]
+  },
+  {
+    "id": "ap-2",
+    "name": "Apple AirPods 2",
+    "category": "наушники",
+    "price_rub": 9490,
+    "price_cash": 8541,
+    "stock": 1,
+    "specs": "H1 чип, до 5 часов музыки, до 24 часов с кейсом, Lightning кейс",
+    "tags": [
+      "apple",
+      "airpods",
+      "наушники",
+      "ios",
+      "беспроводные"
+    ]
+  },
+  {
+    "id": "ap-4",
+    "name": "Apple AirPods 4",
+    "category": "наушники",
+    "price_rub": 13990,
+    "price_cash": 12591,
+    "stock": 1,
+    "specs": "H2 чип, до 6 часов музыки, до 30 часов с кейсом, USB-C кейс, персонализированный пространственный звук",
+    "tags": [
+      "apple",
+      "airpods",
+      "наушники",
+      "ios",
+      "беспроводные"
+    ]
+  },
+  {
+    "id": "ap-4-anc",
+    "name": "Apple AirPods 4 with ANC",
+    "category": "наушники",
+    "price_rub": 17990,
+    "price_cash": 16191,
+    "stock": 1,
+    "specs": "H2 чип, активное шумоподавление, до 6 часов музыки, до 30 часов с кейсом, USB-C кейс",
+    "tags": [
+      "apple",
+      "airpods",
+      "наушники",
+      "ios",
+      "беспроводные",
+      "anc",
+      "шумоподавление"
+    ]
+  },
+  {
+    "id": "ap-pro2",
+    "name": "Apple AirPods Pro 2 (Type-C)",
+    "category": "наушники",
+    "price_rub": 20990,
+    "price_cash": 18891,
+    "stock": 1,
+    "specs": "H2 чип, адаптивное шумоподавление, до 6 часов музыки, до 30 часов с кейсом, USB-C кейс, защита IPX4",
+    "tags": [
+      "apple",
+      "airpods",
+      "наушники",
+      "ios",
+      "беспроводные",
+      "pro",
+      "anc",
+      "шумоподавление"
+    ]
+  },
+  {
+    "id": "ap-pro3",
+    "name": "Apple AirPods Pro 3",
+    "category": "наушники",
+    "price_rub": 22990,
+    "price_cash": 20691,
+    "stock": 1,
+    "specs": "H3 чип, улучшенное шумоподавление, до 7 часов музыки, до 35 часов с кейсом, USB-C кейс",
+    "tags": [
+      "apple",
+      "airpods",
+      "наушники",
+      "ios",
+      "беспроводные",
+      "pro",
+      "anc",
+      "шумоподавление"
+    ]
+  },
+  {
+    "id": "ap-max",
+    "name": "Apple AirPods Max",
+    "category": "наушники",
+    "price_rub": 54990,
+    "price_cash": 49491,
+    "stock": 1,
+    "specs": "H1 чип x2, накладные, активное шумоподавление, до 20 часов музыки, USB-C, алюминиевые чашки",
+    "tags": [
+      "apple",
+      "airpods",
+      "наушники",
+      "ios",
+      "max",
+      "накладные",
+      "anc",
+      "шумоподавление"
+    ]
+  },
+  {
+    "id": "ss-s24-128",
+    "name": "Samsung Galaxy S24 8/128GB",
+    "category": "смартфон",
+    "price_rub": 45490,
+    "price_cash": 40941,
+    "stock": 1,
+    "specs": "Snapdragon 8 Gen 3, 6.2\" Dynamic AMOLED 120Гц, 50MP, 4000мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s24-256",
+    "name": "Samsung Galaxy S24 8/256GB",
+    "category": "смартфон",
+    "price_rub": 53990,
+    "price_cash": 48591,
+    "stock": 1,
+    "specs": "Snapdragon 8 Gen 3, 6.2\" Dynamic AMOLED 120Гц, 50MP, 4000мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s24u-256",
+    "name": "Samsung Galaxy S24 Ultra 12/256GB",
+    "category": "смартфон",
+    "price_rub": 78490,
+    "price_cash": 70641,
+    "stock": 1,
+    "specs": "Snapdragon 8 Gen 3, 6.8\" Dynamic AMOLED 120Гц, 200MP, S Pen, 5000мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "ultra",
+      "s pen",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s24u-512",
+    "name": "Samsung Galaxy S24 Ultra 12/512GB",
+    "category": "смартфон",
+    "price_rub": 92990,
+    "price_cash": 83691,
+    "stock": 1,
+    "specs": "Snapdragon 8 Gen 3, 6.8\" Dynamic AMOLED 120Гц, 200MP, S Pen, 5000мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "ultra",
+      "s pen",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s24p-256",
+    "name": "Samsung Galaxy S24+ 12/256GB",
+    "category": "смартфон",
+    "price_rub": 63990,
+    "price_cash": 57591,
+    "stock": 1,
+    "specs": "Snapdragon 8 Gen 3, 6.7\" Dynamic AMOLED 120Гц, 50MP, 4900мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s24p-512",
+    "name": "Samsung Galaxy S24+ 12/512GB",
+    "category": "смартфон",
+    "price_rub": 74990,
+    "price_cash": 67491,
+    "stock": 1,
+    "specs": "Snapdragon 8 Gen 3, 6.7\" Dynamic AMOLED 120Гц, 50MP, 4900мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s24fe-256",
+    "name": "Samsung Galaxy S24 FE 8/256GB",
+    "category": "смартфон",
+    "price_rub": 43990,
+    "price_cash": 39591,
+    "stock": 1,
+    "specs": "Exynos 2500, 6.7\" Dynamic AMOLED 120Гц, 50MP, 4700мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "fan edition",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s25-256",
+    "name": "Samsung Galaxy S25 12/256GB",
+    "category": "смартфон",
+    "price_rub": 57990,
+    "price_cash": 49292,
+    "stock": 1,
+    "specs": "Snapdragon 8 Elite, 6.2\" Dynamic AMOLED 120Гц, 50MP, 4000мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s25-512",
+    "name": "Samsung Galaxy S25 12/512GB",
+    "category": "смартфон",
+    "price_rub": 87990,
+    "price_cash": 74792,
+    "stock": 1,
+    "specs": "Snapdragon 8 Elite, 6.2\" Dynamic AMOLED 120Гц, 50MP, 4000мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s25p-256",
+    "name": "Samsung Galaxy S25+ 12/256GB",
+    "category": "смартфон",
+    "price_rub": 74990,
+    "price_cash": 63742,
+    "stock": 1,
+    "specs": "Snapdragon 8 Elite, 6.7\" Dynamic AMOLED 120Гц, 50MP, 4900мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s25p-512",
+    "name": "Samsung Galaxy S25+ 12/512GB",
+    "category": "смартфон",
+    "price_rub": 87990,
+    "price_cash": 74792,
+    "stock": 1,
+    "specs": "Snapdragon 8 Elite, 6.7\" Dynamic AMOLED 120Гц, 50MP, 4900мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s25u-256",
+    "name": "Samsung Galaxy S25 Ultra 12/256GB",
+    "category": "смартфон",
+    "price_rub": 89990,
+    "price_cash": 76492,
+    "stock": 1,
+    "specs": "Snapdragon 8 Elite, 6.9\" Dynamic AMOLED 120Гц, 200MP, S Pen, 5000мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "ultra",
+      "s pen",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s25u-256-titan",
+    "name": "Samsung Galaxy S25 Ultra 12/256GB Черный Титан",
+    "category": "смартфон",
+    "price_rub": 99990,
+    "price_cash": 84992,
+    "stock": 1,
+    "specs": "Snapdragon 8 Elite, 6.9\" Dynamic AMOLED 120Гц, 200MP, S Pen, 5000мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "ultra",
+      "s pen",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s25u-512",
+    "name": "Samsung Galaxy S25 Ultra 12/512GB",
+    "category": "смартфон",
+    "price_rub": 95990,
+    "price_cash": 81592,
+    "stock": 1,
+    "specs": "Snapdragon 8 Elite, 6.9\" Dynamic AMOLED 120Гц, 200MP, S Pen, 5000мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "ultra",
+      "s pen",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s25u-1t",
+    "name": "Samsung Galaxy S25 Ultra 12/1TB",
+    "category": "смартфон",
+    "price_rub": 99990,
+    "price_cash": 84992,
+    "stock": 1,
+    "specs": "Snapdragon 8 Elite, 6.9\" Dynamic AMOLED 120Гц, 200MP, S Pen, 5000мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "ultra",
+      "s pen",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s25fe-256",
+    "name": "Samsung Galaxy S25 FE 8/256GB",
+    "category": "смартфон",
+    "price_rub": 50990,
+    "price_cash": 47421,
+    "stock": 1,
+    "specs": "Exynos 2600, 6.7\" Dynamic AMOLED 120Гц, 50MP, 4900мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "fan edition",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s25fe-512",
+    "name": "Samsung Galaxy S25 FE 8/512GB",
+    "category": "смартфон",
+    "price_rub": 56990,
+    "price_cash": 53001,
+    "stock": 1,
+    "specs": "Exynos 2600, 6.7\" Dynamic AMOLED 120Гц, 50MP, 4900мАч, Galaxy AI, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "fan edition",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-fold7-512",
+    "name": "Samsung Galaxy Z Fold 7 12/512GB",
+    "category": "смартфон",
+    "price_rub": 165990,
+    "price_cash": 149391,
+    "stock": 1,
+    "specs": "Snapdragon 8 Elite, складной 7.6\" AMOLED + 6.5\" внешний, 200MP, S Pen, 4400мАч, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "складной",
+      "fold",
+      "s pen",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-fold7-256",
+    "name": "Samsung Galaxy Z Fold 7 12/256GB",
+    "category": "смартфон",
+    "price_rub": 143990,
+    "price_cash": 129591,
+    "stock": 1,
+    "specs": "Snapdragon 8 Elite, складной 7.6\" AMOLED + 6.5\" внешний, 200MP, S Pen, 4400мАч, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "складной",
+      "fold",
+      "s pen",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-flip7-256",
+    "name": "Samsung Galaxy Z Flip 7 12/256GB",
+    "category": "смартфон",
+    "price_rub": 80990,
+    "price_cash": 72891,
+    "stock": 1,
+    "specs": "Snapdragon 8 Elite, раскладной 6.7\" AMOLED + 4\" внешний, 50MP, 4000мАч, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "раскладной",
+      "flip",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-flip7fe-256",
+    "name": "Samsung Galaxy Z Flip 7 FE 8/256GB",
+    "category": "смартфон",
+    "price_rub": 69990,
+    "price_cash": 62991,
+    "stock": 1,
+    "specs": "Exynos 2600, раскладной 6.7\" AMOLED + 3.9\" внешний, 50MP, 4000мАч, 2 SIM",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "раскладной",
+      "flip",
+      "fan edition",
+      "galaxy ai"
+    ]
+  },
+  {
+    "id": "ss-s26-256",
+    "name": "Samsung Galaxy S26 12/256GB (предзаказ)",
+    "category": "смартфон",
+    "price_rub": 68990,
+    "price_cash": 58642,
+    "stock": 0,
+    "specs": "Snapdragon 8 Elite Gen 2, 6.2\" Dynamic AMOLED 120Гц, Galaxy AI, 2 SIM. Предзаказ.",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "galaxy ai",
+      "предзаказ"
+    ]
+  },
+  {
+    "id": "ss-s26-512",
+    "name": "Samsung Galaxy S26 12/512GB (предзаказ)",
+    "category": "смартфон",
+    "price_rub": 80990,
+    "price_cash": 68842,
+    "stock": 0,
+    "specs": "Snapdragon 8 Elite Gen 2, 6.2\" Dynamic AMOLED 120Гц, Galaxy AI, 2 SIM. Предзаказ.",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "galaxy ai",
+      "предзаказ"
+    ]
+  },
+  {
+    "id": "ss-s26p-256",
+    "name": "Samsung Galaxy S26+ 12/256GB (предзаказ)",
+    "category": "смартфон",
+    "price_rub": 87990,
+    "price_cash": 74792,
+    "stock": 0,
+    "specs": "Snapdragon 8 Elite Gen 2, 6.7\" Dynamic AMOLED 120Гц, Galaxy AI, 2 SIM. Предзаказ.",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "galaxy ai",
+      "предзаказ"
+    ]
+  },
+  {
+    "id": "ss-s26p-512",
+    "name": "Samsung Galaxy S26+ 12/512GB (предзаказ)",
+    "category": "смартфон",
+    "price_rub": 93990,
+    "price_cash": 79892,
+    "stock": 0,
+    "specs": "Snapdragon 8 Elite Gen 2, 6.7\" Dynamic AMOLED 120Гц, Galaxy AI, 2 SIM. Предзаказ.",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "galaxy ai",
+      "предзаказ"
+    ]
+  },
+  {
+    "id": "ss-s26u-256",
+    "name": "Samsung Galaxy S26 Ultra 12/256GB (предзаказ)",
+    "category": "смартфон",
+    "price_rub": 99990,
+    "price_cash": 84992,
+    "stock": 0,
+    "specs": "Snapdragon 8 Elite Gen 2, 6.9\" Dynamic AMOLED 120Гц, 200MP, S Pen, Galaxy AI, 2 SIM. Предзаказ.",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "ultra",
+      "s pen",
+      "galaxy ai",
+      "предзаказ"
+    ]
+  },
+  {
+    "id": "ss-s26u-512",
+    "name": "Samsung Galaxy S26 Ultra 12/512GB (предзаказ)",
+    "category": "смартфон",
+    "price_rub": 113990,
+    "price_cash": 96892,
+    "stock": 0,
+    "specs": "Snapdragon 8 Elite Gen 2, 6.9\" Dynamic AMOLED 120Гц, 200MP, S Pen, Galaxy AI, 2 SIM. Предзаказ.",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "ultra",
+      "s pen",
+      "galaxy ai",
+      "предзаказ"
+    ]
+  },
+  {
+    "id": "ss-s26u-1t",
+    "name": "Samsung Galaxy S26 Ultra 16/1TB (предзаказ)",
+    "category": "смартфон",
+    "price_rub": 137990,
+    "price_cash": 117292,
+    "stock": 0,
+    "specs": "Snapdragon 8 Elite Gen 2, 6.9\" Dynamic AMOLED 120Гц, 200MP, S Pen, Galaxy AI, 2 SIM. Предзаказ.",
+    "tags": [
+      "samsung",
+      "android",
+      "флагман",
+      "s-серия",
+      "ultra",
+      "s pen",
+      "galaxy ai",
+      "предзаказ"
+    ]
   },
   {
     "id": "acc-dys-001",
-    "name": "Выпрямитель Dyson HT01 Airstrait Kanzan Pink",
-    "category": "аксессуар",
-    "price_rub": 44990,
+    "name": "Dyson Airstrait HT01 Kanzan Pink (с кейсом)",
+    "category": "стайлер",
+    "price_rub": 45990,
+    "price_cash": 41391,
     "stock": 1,
-    "specs": "Выпрямитель-фен 2 в 1, воздушные потоки без нагревательных пластин",
-    "tags": ["dyson", "стайлер", "выпрямитель", "уход за волосами"]
+    "specs": "Выпрямитель-фен 2 в 1, укладка без нагревательных пластин",
+    "tags": [
+      "dyson",
+      "airstrait",
+      "выпрямитель",
+      "уход за волосами",
+      "ht01"
+    ]
+  },
+  {
+    "id": "acc-dys-002",
+    "name": "Dyson Airstrait HT01 Jasper Plum (с кейсом)",
+    "category": "стайлер",
+    "price_rub": 49990,
+    "price_cash": 44991,
+    "stock": 1,
+    "specs": "Выпрямитель-фен 2 в 1, укладка без нагревательных пластин",
+    "tags": [
+      "dyson",
+      "airstrait",
+      "выпрямитель",
+      "уход за волосами",
+      "ht01"
+    ]
+  },
+  {
+    "id": "acc-dys-003",
+    "name": "Dyson Airstrait HT01 Red Velvet (с кейсом)",
+    "category": "стайлер",
+    "price_rub": 45990,
+    "price_cash": 41391,
+    "stock": 1,
+    "specs": "Выпрямитель-фен 2 в 1, укладка без нагревательных пластин",
+    "tags": [
+      "dyson",
+      "airstrait",
+      "выпрямитель",
+      "уход за волосами",
+      "ht01"
+    ]
+  },
+  {
+    "id": "acc-dys-004",
+    "name": "Dyson Airstrait HT01 Amber Silk (с кейсом)",
+    "category": "стайлер",
+    "price_rub": 45990,
+    "price_cash": 41391,
+    "stock": 1,
+    "specs": "Выпрямитель-фен 2 в 1, укладка без нагревательных пластин",
+    "tags": [
+      "dyson",
+      "airstrait",
+      "выпрямитель",
+      "уход за волосами",
+      "ht01"
+    ]
+  },
+  {
+    "id": "acc-dys-005",
+    "name": "Dyson Airstrait HT01 Ceramic Pink (без кейса)",
+    "category": "стайлер",
+    "price_rub": 43990,
+    "price_cash": 39591,
+    "stock": 1,
+    "specs": "Выпрямитель-фен 2 в 1, укладка без нагревательных пластин",
+    "tags": [
+      "dyson",
+      "airstrait",
+      "выпрямитель",
+      "уход за волосами",
+      "ht01"
+    ]
+  },
+  {
+    "id": "acc-dys-006",
+    "name": "Dyson Airwrap HS08 Amber Silk",
+    "category": "стайлер",
+    "price_rub": 51250,
+    "price_cash": 46125,
+    "stock": 1,
+    "specs": "Мультистайлер: завивка, выпрямление, объём, без экстремального нагрева",
+    "tags": [
+      "dyson",
+      "airwrap",
+      "стайлер",
+      "уход за волосами",
+      "hs08"
+    ]
+  },
+  {
+    "id": "acc-dys-007",
+    "name": "Dyson Airwrap HS08 Jasper Plum",
+    "category": "стайлер",
+    "price_rub": 53990,
+    "price_cash": 48591,
+    "stock": 1,
+    "specs": "Мультистайлер: завивка, выпрямление, объём, без экстремального нагрева",
+    "tags": [
+      "dyson",
+      "airwrap",
+      "стайлер",
+      "уход за волосами",
+      "hs08"
+    ]
+  },
+  {
+    "id": "acc-dys-008",
+    "name": "Dyson Airwrap HS08 Ceramic Pink",
+    "category": "стайлер",
+    "price_rub": 49990,
+    "price_cash": 44991,
+    "stock": 1,
+    "specs": "Мультистайлер: завивка, выпрямление, объём, без экстремального нагрева",
+    "tags": [
+      "dyson",
+      "airwrap",
+      "стайлер",
+      "уход за волосами",
+      "hs08"
+    ]
+  },
+  {
+    "id": "acc-dys-009",
+    "name": "Dyson Airwrap HS08 Ceramic Patina/Topaz Orange",
+    "category": "стайлер",
+    "price_rub": 50990,
+    "price_cash": 45891,
+    "stock": 1,
+    "specs": "Мультистайлер: завивка, выпрямление, объём, без экстремального нагрева",
+    "tags": [
+      "dyson",
+      "airwrap",
+      "стайлер",
+      "уход за волосами",
+      "hs08"
+    ]
+  },
+  {
+    "id": "acc-dys-010",
+    "name": "Dyson Airwrap HS08 Ceramic Pink/Rose Gold",
+    "category": "стайлер",
+    "price_rub": 48990,
+    "price_cash": 44091,
+    "stock": 1,
+    "specs": "Мультистайлер: завивка, выпрямление, объём, без экстремального нагрева",
+    "tags": [
+      "dyson",
+      "airwrap",
+      "стайлер",
+      "уход за волосами",
+      "hs08"
+    ]
+  },
+  {
+    "id": "acc-dys-011",
+    "name": "Dyson Airwrap HS09 Complete Long Amber Silk",
+    "category": "стайлер",
+    "price_rub": 69990,
+    "price_cash": 62991,
+    "stock": 1,
+    "specs": "Мультистайлер для длинных волос, расширенный набор насадок, без экстремального нагрева",
+    "tags": [
+      "dyson",
+      "airwrap",
+      "стайлер",
+      "уход за волосами",
+      "hs09",
+      "long"
+    ]
+  },
+  {
+    "id": "acc-dys-012",
+    "name": "Dyson Airwrap HS09 Complete Long Ceramic Pink/Rose Gold",
+    "category": "стайлер",
+    "price_rub": 69990,
+    "price_cash": 62991,
+    "stock": 1,
+    "specs": "Мультистайлер для длинных волос, расширенный набор насадок, без экстремального нагрева",
+    "tags": [
+      "dyson",
+      "airwrap",
+      "стайлер",
+      "уход за волосами",
+      "hs09",
+      "long"
+    ]
+  },
+  {
+    "id": "acc-dys-013",
+    "name": "Dyson Airwrap HS09 Complete Long Jasper Plum",
+    "category": "стайлер",
+    "price_rub": 69990,
+    "price_cash": 62991,
+    "stock": 1,
+    "specs": "Мультистайлер для длинных волос, расширенный набор насадок, без экстремального нагрева",
+    "tags": [
+      "dyson",
+      "airwrap",
+      "стайлер",
+      "уход за волосами",
+      "hs09",
+      "long"
+    ]
   }
 ]

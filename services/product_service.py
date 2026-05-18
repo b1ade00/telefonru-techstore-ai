@@ -16,18 +16,25 @@ class Product:
     id: str
     name: str
     category: str
-    price_rub: int
+    price_rub: int  # цена по карте / цена полки
     stock: int
     specs: str
     tags: list[str]
+    price_cash: int | None = None  # цена за наличные (если отличается от price_rub)
 
     def short(self) -> str:
+        if self.price_cash:
+            return f"{self.name} — {self.price_rub}₽ карта / {self.price_cash}₽ нал"
         return f"{self.name} — {self.price_rub}₽ ({self.category})"
 
     def full(self) -> str:
         avail = "есть в наличии" if self.stock > 0 else "сейчас нет"
+        if self.price_cash:
+            price_info = f"{self.price_rub}₽ по карте/рассрочку, {self.price_cash}₽ за наличные"
+        else:
+            price_info = f"{self.price_rub}₽"
         return (
-            f"• {self.name} — {self.price_rub}₽\n"
+            f"• {self.name} — {price_info}\n"
             f"  {self.specs}\n"
             f"  {avail}"
         )
@@ -65,6 +72,10 @@ class ProductService:
                 else:
                     raise KeyError("price_rub/price_usd")
 
+                price_cash = None
+                if "price_cash" in item and item["price_cash"]:
+                    price_cash = int(round(float(item["price_cash"])))
+
                 products.append(
                     Product(
                         id=str(item["id"]),
@@ -74,6 +85,7 @@ class ProductService:
                         stock=int(item.get("stock", 0)),
                         specs=str(item.get("specs", "")),
                         tags=[str(t).lower() for t in item.get("tags", [])],
+                        price_cash=price_cash,
                     )
                 )
             except (KeyError, TypeError, ValueError) as e:
@@ -121,7 +133,10 @@ class ProductService:
         lines: list[str] = []
         for p in items:
             avail = "есть" if p.stock > 0 else "нет"
-            lines.append(f"{p.name} — {p.price_rub}₽ ({avail})")
+            if p.price_cash:
+                lines.append(f"{p.name} — {p.price_rub}₽ карта / {p.price_cash}₽ нал ({avail})")
+            else:
+                lines.append(f"{p.name} — {p.price_rub}₽ ({avail})")
         return "\n".join(lines)
 
 
