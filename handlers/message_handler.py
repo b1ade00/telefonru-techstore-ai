@@ -17,6 +17,8 @@ router = Router(name="messages")
 
 @router.message(CommandStart())
 async def cmd_start(message: Message) -> None:
+    if message.from_user:
+        llm_service.clear_history(message.from_user.id)
     await message.answer(config.WELCOME_MESSAGE)
 
 
@@ -47,7 +49,7 @@ async def handle_text(message: Message) -> None:
     if message.bot:
         await message.bot.send_chat_action(message.chat.id, ChatAction.TYPING)
 
-    answer = await llm_service.ask(user_text)
+    answer = await llm_service.ask(user_text, user_id=message.from_user.id if message.from_user else 0)
     for chunk in _chunk(answer, config.MAX_MESSAGE_LENGTH):
         await message.answer(chunk)
 
